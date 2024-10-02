@@ -1,0 +1,10 @@
+C:\Users\3Egr1\source\repos\WinForms - Radio\bin\Debug\WinForms - Radio.exe.config
+C:\Users\3Egr1\source\repos\WinForms - Radio\bin\Debug\WinForms - Radio.exe
+C:\Users\3Egr1\source\repos\WinForms - Radio\bin\Debug\WinForms - Radio.pdb
+C:\Users\3Egr1\source\repos\WinForms - Radio\obj\Debug\WinForms - Radio.csproj.AssemblyReference.cache
+C:\Users\3Egr1\source\repos\WinForms - Radio\obj\Debug\WinForms___Radio.Form1.resources
+C:\Users\3Egr1\source\repos\WinForms - Radio\obj\Debug\WinForms___Radio.Properties.Resources.resources
+C:\Users\3Egr1\source\repos\WinForms - Radio\obj\Debug\WinForms - Radio.csproj.GenerateResource.cache
+C:\Users\3Egr1\source\repos\WinForms - Radio\obj\Debug\WinForms - Radio.csproj.CoreCompileInputs.cache
+C:\Users\3Egr1\source\repos\WinForms - Radio\obj\Debug\WinForms - Radio.exe
+C:\Users\3Egr1\source\repos\WinForms - Radio\obj\Debug\WinForms - Radio.pdb
