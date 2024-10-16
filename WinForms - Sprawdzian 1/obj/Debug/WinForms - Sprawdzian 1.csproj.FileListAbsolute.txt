@@ -1,0 +1,10 @@
+C:\Users\3Egr1\source\repos\WinForms - Sprawdzian 1\bin\Debug\WinForms - Sprawdzian 1.exe.config
+C:\Users\3Egr1\source\repos\WinForms - Sprawdzian 1\bin\Debug\WinForms - Sprawdzian 1.exe
+C:\Users\3Egr1\source\repos\WinForms - Sprawdzian 1\bin\Debug\WinForms - Sprawdzian 1.pdb
+C:\Users\3Egr1\source\repos\WinForms - Sprawdzian 1\obj\Debug\WinForms - Sprawdzian 1.csproj.AssemblyReference.cache
+C:\Users\3Egr1\source\repos\WinForms - Sprawdzian 1\obj\Debug\WinForms___Sprawdzian_1.Form1.resources
+C:\Users\3Egr1\source\repos\WinForms - Sprawdzian 1\obj\Debug\WinForms___Sprawdzian_1.Properties.Resources.resources
+C:\Users\3Egr1\source\repos\WinForms - Sprawdzian 1\obj\Debug\WinForms - Sprawdzian 1.csproj.GenerateResource.cache
+C:\Users\3Egr1\source\repos\WinForms - Sprawdzian 1\obj\Debug\WinForms - Sprawdzian 1.csproj.CoreCompileInputs.cache
+C:\Users\3Egr1\source\repos\WinForms - Sprawdzian 1\obj\Debug\WinForms - Sprawdzian 1.exe
+C:\Users\3Egr1\source\repos\WinForms - Sprawdzian 1\obj\Debug\WinForms - Sprawdzian 1.pdb
