@@ -1,0 +1,10 @@
+C:\Users\3Egr1\source\repos\WinForms - Wydawanie reszty\bin\Debug\WinForms - Wydawanie reszty.exe.config
+C:\Users\3Egr1\source\repos\WinForms - Wydawanie reszty\bin\Debug\WinForms - Wydawanie reszty.exe
+C:\Users\3Egr1\source\repos\WinForms - Wydawanie reszty\bin\Debug\WinForms - Wydawanie reszty.pdb
+C:\Users\3Egr1\source\repos\WinForms - Wydawanie reszty\obj\Debug\WinForms - Wydawanie reszty.csproj.AssemblyReference.cache
+C:\Users\3Egr1\source\repos\WinForms - Wydawanie reszty\obj\Debug\WinForms___Wydawanie_reszty.Form1.resources
+C:\Users\3Egr1\source\repos\WinForms - Wydawanie reszty\obj\Debug\WinForms___Wydawanie_reszty.Properties.Resources.resources
+C:\Users\3Egr1\source\repos\WinForms - Wydawanie reszty\obj\Debug\WinForms - Wydawanie reszty.csproj.GenerateResource.cache
+C:\Users\3Egr1\source\repos\WinForms - Wydawanie reszty\obj\Debug\WinForms - Wydawanie reszty.csproj.CoreCompileInputs.cache
+C:\Users\3Egr1\source\repos\WinForms - Wydawanie reszty\obj\Debug\WinForms - Wydawanie reszty.exe
+C:\Users\3Egr1\source\repos\WinForms - Wydawanie reszty\obj\Debug\WinForms - Wydawanie reszty.pdb
