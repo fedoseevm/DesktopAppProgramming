@@ -8,3 +8,14 @@ C:\Users\3Egr1\source\repos\WinForms - Wydawanie reszty\obj\Debug\WinForms - Wyd
 C:\Users\3Egr1\source\repos\WinForms - Wydawanie reszty\obj\Debug\WinForms - Wydawanie reszty.csproj.CoreCompileInputs.cache
 C:\Users\3Egr1\source\repos\WinForms - Wydawanie reszty\obj\Debug\WinForms - Wydawanie reszty.exe
 C:\Users\3Egr1\source\repos\WinForms - Wydawanie reszty\obj\Debug\WinForms - Wydawanie reszty.pdb
+D:\GitHub reps\DesktopAppProgramming\WinForms - Wydawanie reszty\obj\Debug\WinForms - Wydawanie reszty.csproj.AssemblyReference.cache
+D:\GitHub reps\DesktopAppProgramming\WinForms - Wydawanie reszty\obj\Debug\WinForms - Wydawanie reszty.csproj.SuggestedBindingRedirects.cache
+D:\GitHub reps\DesktopAppProgramming\WinForms - Wydawanie reszty\obj\Debug\WinForms___Wydawanie_reszty.Form1.resources
+D:\GitHub reps\DesktopAppProgramming\WinForms - Wydawanie reszty\obj\Debug\WinForms___Wydawanie_reszty.Properties.Resources.resources
+D:\GitHub reps\DesktopAppProgramming\WinForms - Wydawanie reszty\obj\Debug\WinForms - Wydawanie reszty.csproj.GenerateResource.cache
+D:\GitHub reps\DesktopAppProgramming\WinForms - Wydawanie reszty\obj\Debug\WinForms - Wydawanie reszty.csproj.CoreCompileInputs.cache
+D:\GitHub reps\DesktopAppProgramming\WinForms - Wydawanie reszty\obj\Debug\WinForms - Wydawanie reszty.exe
+D:\GitHub reps\DesktopAppProgramming\WinForms - Wydawanie reszty\obj\Debug\WinForms - Wydawanie reszty.pdb
+D:\GitHub reps\DesktopAppProgramming\WinForms - Wydawanie reszty\bin\Debug\WinForms - Wydawanie reszty.exe.config
+D:\GitHub reps\DesktopAppProgramming\WinForms - Wydawanie reszty\bin\Debug\WinForms - Wydawanie reszty.exe
+D:\GitHub reps\DesktopAppProgramming\WinForms - Wydawanie reszty\bin\Debug\WinForms - Wydawanie reszty.pdb
