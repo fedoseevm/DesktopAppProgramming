@@ -1,0 +1,16 @@
+C:\Users\3Egr1\source\repos\WinForms - form using Regex class\bin\Debug\net8.0-windows\WinForms - form using Regex class.exe
+C:\Users\3Egr1\source\repos\WinForms - form using Regex class\bin\Debug\net8.0-windows\WinForms - form using Regex class.deps.json
+C:\Users\3Egr1\source\repos\WinForms - form using Regex class\bin\Debug\net8.0-windows\WinForms - form using Regex class.runtimeconfig.json
+C:\Users\3Egr1\source\repos\WinForms - form using Regex class\bin\Debug\net8.0-windows\WinForms - form using Regex class.dll
+C:\Users\3Egr1\source\repos\WinForms - form using Regex class\bin\Debug\net8.0-windows\WinForms - form using Regex class.pdb
+C:\Users\3Egr1\source\repos\WinForms - form using Regex class\obj\Debug\net8.0-windows\WinForms___form_using_Regex_class.Form1.resources
+C:\Users\3Egr1\source\repos\WinForms - form using Regex class\obj\Debug\net8.0-windows\WinForms - form using Regex class.csproj.GenerateResource.cache
+C:\Users\3Egr1\source\repos\WinForms - form using Regex class\obj\Debug\net8.0-windows\WinForms - form using Regex class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3Egr1\source\repos\WinForms - form using Regex class\obj\Debug\net8.0-windows\WinForms - form using Regex class.AssemblyInfoInputs.cache
+C:\Users\3Egr1\source\repos\WinForms - form using Regex class\obj\Debug\net8.0-windows\WinForms - form using Regex class.AssemblyInfo.cs
+C:\Users\3Egr1\source\repos\WinForms - form using Regex class\obj\Debug\net8.0-windows\WinForms - form using Regex class.csproj.CoreCompileInputs.cache
+C:\Users\3Egr1\source\repos\WinForms - form using Regex class\obj\Debug\net8.0-windows\WinForms - form using Regex class.dll
+C:\Users\3Egr1\source\repos\WinForms - form using Regex class\obj\Debug\net8.0-windows\refint\WinForms - form using Regex class.dll
+C:\Users\3Egr1\source\repos\WinForms - form using Regex class\obj\Debug\net8.0-windows\WinForms - form using Regex class.pdb
+C:\Users\3Egr1\source\repos\WinForms - form using Regex class\obj\Debug\net8.0-windows\WinForms - form using Regex class.genruntimeconfig.cache
+C:\Users\3Egr1\source\repos\WinForms - form using Regex class\obj\Debug\net8.0-windows\ref\WinForms - form using Regex class.dll
