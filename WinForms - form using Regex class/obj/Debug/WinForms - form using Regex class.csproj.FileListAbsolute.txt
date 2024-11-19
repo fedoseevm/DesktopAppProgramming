@@ -1,0 +1,11 @@
+D:\GitHub reps\WinForms - form using Regex class\bin\Debug\WinForms - form using Regex class.exe.config
+D:\GitHub reps\WinForms - form using Regex class\bin\Debug\WinForms - form using Regex class.exe
+D:\GitHub reps\WinForms - form using Regex class\bin\Debug\WinForms - form using Regex class.pdb
+D:\GitHub reps\WinForms - form using Regex class\obj\Debug\WinForms - form using Regex class.csproj.AssemblyReference.cache
+D:\GitHub reps\WinForms - form using Regex class\obj\Debug\WinForms - form using Regex class.csproj.SuggestedBindingRedirects.cache
+D:\GitHub reps\WinForms - form using Regex class\obj\Debug\WinForms___form_using_Regex_class.Properties.Resources.resources
+D:\GitHub reps\WinForms - form using Regex class\obj\Debug\WinForms - form using Regex class.csproj.GenerateResource.cache
+D:\GitHub reps\WinForms - form using Regex class\obj\Debug\WinForms - form using Regex class.csproj.CoreCompileInputs.cache
+D:\GitHub reps\WinForms - form using Regex class\obj\Debug\WinForms - form using Regex class.exe
+D:\GitHub reps\WinForms - form using Regex class\obj\Debug\WinForms - form using Regex class.pdb
+D:\GitHub reps\WinForms - form using Regex class\obj\Debug\WinForms___form_using_Regex_class.Form1.resources

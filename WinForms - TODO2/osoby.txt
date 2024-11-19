@@ -1,0 +1,4 @@
+Adam;Mężczyzna;coś tam
+Adam;Mężczyzna;sdfd
+fasdf;Mężczyzna;asf
+Ivan;Mężczyzna;fsgfgsdg

@@ -1,16 +1,13 @@
-﻿namespace WinForms___form_using_Regex_class
+﻿using System;
+using System.Drawing;
+using System.Windows.Forms;
+
+namespace WinForms___form_using_Regex_class
 {
-    partial class Form1
+    partial class Form1 : Form
     {
-        /// <summary>
-        ///  Required designer variable.
-        /// </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        ///  Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -22,120 +19,116 @@
 
         #region Windows Form Designer generated code
 
-        /// <summary>
-        ///  Required method for Designer support - do not modify
-        ///  the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
-            label1 = new Label();
-            label2 = new Label();
-            emailInputField = new TextBox();
-            passwordInputField = new TextBox();
-            label3 = new Label();
-            label4 = new Label();
-            passwordSubmitField = new TextBox();
-            submitButton = new Button();
-            greetingsLabel = new Label();
-            SuspendLayout();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.emailInputField = new System.Windows.Forms.TextBox();
+            this.passwordInputField = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.passwordSubmitField = new System.Windows.Forms.TextBox();
+            this.submitButton = new System.Windows.Forms.Button();
+            this.greetingsLabel = new System.Windows.Forms.Label();
+            this.SuspendLayout();
             // 
             // label1
             // 
-            label1.AutoSize = true;
-            label1.Location = new Point(110, 30);
-            label1.Name = "label1";
-            label1.Size = new Size(86, 15);
-            label1.TabIndex = 0;
-            label1.Text = "Rejestruj konto";
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(126, 32);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(96, 16);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Rejestruj konto";
             // 
             // label2
             // 
-            label2.AutoSize = true;
-            label2.Location = new Point(111, 61);
-            label2.Name = "label2";
-            label2.Size = new Size(72, 15);
-            label2.TabIndex = 1;
-            label2.Text = "Podaj email:";
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(127, 65);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(82, 16);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "Podaj email:";
             // 
             // emailInputField
             // 
-            emailInputField.Location = new Point(111, 79);
-            emailInputField.Name = "emailInputField";
-            emailInputField.Size = new Size(100, 23);
-            emailInputField.TabIndex = 2;
-            emailInputField.TextChanged += emailInputField_TextChanged;
+            this.emailInputField.Location = new System.Drawing.Point(127, 84);
+            this.emailInputField.Name = "emailInputField";
+            this.emailInputField.Size = new System.Drawing.Size(114, 22);
+            this.emailInputField.TabIndex = 2;
             // 
             // passwordInputField
             // 
-            passwordInputField.Location = new Point(110, 152);
-            passwordInputField.Name = "passwordInputField";
-            passwordInputField.Size = new Size(100, 23);
-            passwordInputField.TabIndex = 3;
-            passwordInputField.TextChanged += passwordInputField_TextChanged;
+            this.passwordInputField.Location = new System.Drawing.Point(126, 162);
+            this.passwordInputField.Name = "passwordInputField";
+            this.passwordInputField.Size = new System.Drawing.Size(114, 22);
+            this.passwordInputField.TabIndex = 3;
+            this.passwordInputField.UseSystemPasswordChar = true;
             // 
             // label3
             // 
-            label3.AutoSize = true;
-            label3.Location = new Point(110, 134);
-            label3.Name = "label3";
-            label3.Size = new Size(71, 15);
-            label3.TabIndex = 4;
-            label3.Text = "Podaj hasło:";
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(126, 143);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(85, 16);
+            this.label3.TabIndex = 4;
+            this.label3.Text = "Podaj hasło:";
             // 
             // label4
             // 
-            label4.AutoSize = true;
-            label4.Location = new Point(110, 194);
-            label4.Name = "label4";
-            label4.Size = new Size(84, 15);
-            label4.TabIndex = 5;
-            label4.Text = "Powtórz hasło:";
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(126, 207);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(96, 16);
+            this.label4.TabIndex = 5;
+            this.label4.Text = "Powtórz hasło:";
             // 
             // passwordSubmitField
             // 
-            passwordSubmitField.Location = new Point(110, 212);
-            passwordSubmitField.Name = "passwordSubmitField";
-            passwordSubmitField.Size = new Size(100, 23);
-            passwordSubmitField.TabIndex = 6;
-            passwordSubmitField.TextChanged += passwordSubmitField_TextChanged;
+            this.passwordSubmitField.Location = new System.Drawing.Point(126, 226);
+            this.passwordSubmitField.Name = "passwordSubmitField";
+            this.passwordSubmitField.Size = new System.Drawing.Size(114, 22);
+            this.passwordSubmitField.TabIndex = 6;
+            this.passwordSubmitField.UseSystemPasswordChar = true;
             // 
             // submitButton
             // 
-            submitButton.Location = new Point(121, 254);
-            submitButton.Name = "submitButton";
-            submitButton.Size = new Size(75, 23);
-            submitButton.TabIndex = 7;
-            submitButton.Text = "Zatwierdź";
-            submitButton.UseVisualStyleBackColor = true;
-            submitButton.Click += submitButton_Click;
+            this.submitButton.Location = new System.Drawing.Point(138, 271);
+            this.submitButton.Name = "submitButton";
+            this.submitButton.Size = new System.Drawing.Size(86, 25);
+            this.submitButton.TabIndex = 7;
+            this.submitButton.Text = "Zatwierdź";
+            this.submitButton.UseVisualStyleBackColor = true;
+            this.submitButton.Click += new System.EventHandler(this.submitButton_Click);
             // 
             // greetingsLabel
             // 
-            greetingsLabel.AutoSize = true;
-            greetingsLabel.Location = new Point(111, 298);
-            greetingsLabel.Name = "greetingsLabel";
-            greetingsLabel.Size = new Size(34, 15);
-            greetingsLabel.TabIndex = 8;
-            greetingsLabel.Text = "Witaj";
+            this.greetingsLabel.AutoSize = true;
+            this.greetingsLabel.Location = new System.Drawing.Point(127, 318);
+            this.greetingsLabel.Name = "greetingsLabel";
+            this.greetingsLabel.Size = new System.Drawing.Size(69, 16);
+            this.greetingsLabel.TabIndex = 8;
+            this.greetingsLabel.Text = "Komunikat";
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
-            AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Controls.Add(greetingsLabel);
-            Controls.Add(submitButton);
-            Controls.Add(passwordSubmitField);
-            Controls.Add(label4);
-            Controls.Add(label3);
-            Controls.Add(passwordInputField);
-            Controls.Add(emailInputField);
-            Controls.Add(label2);
-            Controls.Add(label1);
-            Name = "Form1";
-            Text = "Form1";
-            ResumeLayout(false);
-            PerformLayout();
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(914, 480);
+            this.Controls.Add(this.greetingsLabel);
+            this.Controls.Add(this.submitButton);
+            this.Controls.Add(this.passwordSubmitField);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.passwordInputField);
+            this.Controls.Add(this.emailInputField);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion

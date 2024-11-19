@@ -1,4 +1,6 @@
+﻿using System;
 using System.Text.RegularExpressions;
+using System.Windows.Forms;
 
 namespace WinForms___form_using_Regex_class
 {
@@ -7,6 +9,7 @@ namespace WinForms___form_using_Regex_class
         public Form1()
         {
             InitializeComponent();
+            greetingsLabel.Text = "";
         }
 
         private void emailInputField_TextChanged(object sender, EventArgs e)
@@ -30,28 +33,41 @@ namespace WinForms___form_using_Regex_class
             string password1 = passwordInputField.Text;
             string password2 = passwordSubmitField.Text;
 
-            if (IsEmail(emailInput) && isMatchingPasswords(password1, password2))
+            //if (IsEmail(emailInput) && isMatchingPasswords(password1, password2))
+            //{
+            //    MessageBox.Show("Udało się!");
+            //}
+            //else
+            //{
+            //    MessageBox.Show("Błędne dane");
+            //}
+
+            if (!IsEmail(emailInput))
             {
-                MessageBox.Show("Uda�o si�!");
+                greetingsLabel.Text = "Nieprawidłowy adres e-mail";
+                return;
             }
-            else
+            if (!isMatchingPasswords(password1, password2))
             {
-                MessageBox.Show("B��dne dane");
+                greetingsLabel.Text = "Hasła się różnią";
+                return;
             }
+
+            greetingsLabel.Text = $"Witaj {emailInput}";
         }
 
         private bool isMatchingPasswords(string password1, string password2)
         {
             string pattern = Regex.Escape(password1);
-            if (Regex.IsMatch(password2, pattern)) 
+            if (Regex.IsMatch(password2, pattern))
                 return true;
             return false;
         }
 
         private bool IsEmail(string input)
         {
-            string pattern = @"@.*\.";
-            if (!Regex.IsMatch(input, "") && Regex.IsMatch(input, pattern))
+            string pattern = @".@.";
+            if (Regex.IsMatch(input, pattern))
             {
                 return true;
             }
