@@ -9,3 +9,13 @@ D:\GitHub reps\WinForms - TODO2\obj\Debug\WinForms - TODO2.csproj.GenerateResour
 D:\GitHub reps\WinForms - TODO2\obj\Debug\WinForms - TODO2.csproj.CoreCompileInputs.cache
 D:\GitHub reps\WinForms - TODO2\obj\Debug\WinForms - TODO2.exe
 D:\GitHub reps\WinForms - TODO2\obj\Debug\WinForms - TODO2.pdb
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WinForms - TODO2\obj\Debug\WinForms - TODO2.csproj.AssemblyReference.cache
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WinForms - TODO2\obj\Debug\WinForms___TODO2.Form1.resources
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WinForms - TODO2\obj\Debug\WinForms___TODO2.Properties.Resources.resources
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WinForms - TODO2\obj\Debug\WinForms - TODO2.csproj.GenerateResource.cache
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WinForms - TODO2\obj\Debug\WinForms - TODO2.csproj.CoreCompileInputs.cache
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WinForms - TODO2\obj\Debug\WinForms - TODO2.exe
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WinForms - TODO2\obj\Debug\WinForms - TODO2.pdb
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WinForms - TODO2\bin\Debug\WinForms - TODO2.exe.config
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WinForms - TODO2\bin\Debug\WinForms - TODO2.exe
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WinForms - TODO2\bin\Debug\WinForms - TODO2.pdb

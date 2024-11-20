@@ -57,6 +57,13 @@ namespace WinForms___TODO2
             {
                 osoby.Add(line.Split(';'));
                 //MessageBox.Show($"{osoby[osoby.Count - 1][0]} {osoby[osoby.Count - 1][1]} {osoby[osoby.Count - 1][2]}");
+
+                string name = osoby[osoby.Count - 1][0];
+                string gender = osoby[osoby.Count - 1][1];
+                string info = osoby[osoby.Count - 1][2];
+
+                listView1.Items.Add($"{name} {gender} {info}");
+                //listView1.Items = osoby;
             }
         }
 
