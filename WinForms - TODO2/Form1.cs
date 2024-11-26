@@ -52,6 +52,8 @@ namespace WinForms___TODO2
 
         private void showListButton_Click(object sender, EventArgs e)
         {
+            listView1.Items.Clear();
+            dataGridView1.Rows.Clear();
             var osoby = new List<string[]>();  // string[] - tablica string[] będzie reprezentować dane jednej osoby (np. ["John", "Male", "Likes music"])
             foreach (var line in File.ReadAllLines(filePath))
             {
@@ -64,6 +66,16 @@ namespace WinForms___TODO2
 
                 listView1.Items.Add($"{name} {gender} {info}");
                 //listView1.Items = osoby;
+            }
+
+            dataGridView1.ColumnCount = 3;
+            dataGridView1.Columns[0].Name = "Imie";
+            dataGridView1.Columns[1].Name = "Płeć";
+            dataGridView1.Columns[2].Name = "Info";
+
+            foreach (string[] personArray in osoby)
+            {
+                dataGridView1.Rows.Add(personArray); // Dodaj wiersz dla każdej osoby
             }
         }
 

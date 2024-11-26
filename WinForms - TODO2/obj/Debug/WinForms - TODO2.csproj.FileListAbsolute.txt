@@ -19,3 +19,14 @@ C:\Users\3Egr1\Repos\DesktopAppProgramming\WinForms - TODO2\obj\Debug\WinForms -
 C:\Users\3Egr1\Repos\DesktopAppProgramming\WinForms - TODO2\bin\Debug\WinForms - TODO2.exe.config
 C:\Users\3Egr1\Repos\DesktopAppProgramming\WinForms - TODO2\bin\Debug\WinForms - TODO2.exe
 C:\Users\3Egr1\Repos\DesktopAppProgramming\WinForms - TODO2\bin\Debug\WinForms - TODO2.pdb
+D:\GitHub reps\DesktopAppProgramming\WinForms - TODO2\bin\Debug\WinForms - TODO2.exe.config
+D:\GitHub reps\DesktopAppProgramming\WinForms - TODO2\bin\Debug\WinForms - TODO2.exe
+D:\GitHub reps\DesktopAppProgramming\WinForms - TODO2\bin\Debug\WinForms - TODO2.pdb
+D:\GitHub reps\DesktopAppProgramming\WinForms - TODO2\obj\Debug\WinForms - TODO2.csproj.AssemblyReference.cache
+D:\GitHub reps\DesktopAppProgramming\WinForms - TODO2\obj\Debug\WinForms - TODO2.csproj.SuggestedBindingRedirects.cache
+D:\GitHub reps\DesktopAppProgramming\WinForms - TODO2\obj\Debug\WinForms___TODO2.Form1.resources
+D:\GitHub reps\DesktopAppProgramming\WinForms - TODO2\obj\Debug\WinForms___TODO2.Properties.Resources.resources
+D:\GitHub reps\DesktopAppProgramming\WinForms - TODO2\obj\Debug\WinForms - TODO2.csproj.GenerateResource.cache
+D:\GitHub reps\DesktopAppProgramming\WinForms - TODO2\obj\Debug\WinForms - TODO2.csproj.CoreCompileInputs.cache
+D:\GitHub reps\DesktopAppProgramming\WinForms - TODO2\obj\Debug\WinForms - TODO2.exe
+D:\GitHub reps\DesktopAppProgramming\WinForms - TODO2\obj\Debug\WinForms - TODO2.pdb
