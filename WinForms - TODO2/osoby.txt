@@ -1,4 +1,4 @@
-Adam;Mężczyzna;coś tam
-Adam;Mężczyzna;sdfd
-fasdf;Mężczyzna;asf
-Ivan;Mężczyzna;fsgfgsdg
+Karol;Mężczyzna;lubie programować
+Dawid;Mężczyzna;naprawia samochody
+Anna;Kobieta;lubie czytać
+Małgorzata;Kobieta;lubie zwierząt
