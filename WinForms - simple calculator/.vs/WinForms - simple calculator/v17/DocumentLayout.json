@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3Egr1\\source\\repos\\WinForms - simple calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73972737-68BA-457A-9471-A1754E807F44}|..\\Test1\\Test1.csproj|c:\\users\\3egr1\\source\\repos\\test1\\test1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73972737-68BA-457A-9471-A1754E807F44}|..\\Test1\\Test1.csproj|c:\\users\\3egr1\\source\\repos\\test1\\test1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73972737-68BA-457A-9471-A1754E807F44}|..\\Test1\\Test1.csproj|c:\\users\\3egr1\\source\\repos\\test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3E1816-4A20-44A6-95FF-BFA405FFFBDE}|WinForms - simple calculator.csproj|c:\\users\\3egr1\\source\\repos\\winforms - simple calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3E1816-4A20-44A6-95FF-BFA405FFFBDE}|WinForms - simple calculator.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3E1816-4A20-44A6-95FF-BFA405FFFBDE}|WinForms - simple calculator.csproj|c:\\users\\3egr1\\source\\repos\\winforms - simple calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3E1816-4A20-44A6-95FF-BFA405FFFBDE}|WinForms - simple calculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3E1816-4A20-44A6-95FF-BFA405FFFBDE}|WinForms - simple calculator.csproj|c:\\users\\3egr1\\source\\repos\\winforms - simple calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A3E1816-4A20-44A6-95FF-BFA405FFFBDE}|WinForms - simple calculator.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test1",
+              "DocumentMoniker": "C:\\Users\\3Egr1\\source\\repos\\Test1\\Test1.csproj",
+              "RelativeDocumentMoniker": "..\\Test1\\Test1.csproj",
+              "ToolTip": "C:\\Users\\3Egr1\\source\\repos\\Test1\\Test1.csproj",
+              "RelativeToolTip": "..\\Test1\\Test1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T11:17:06.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1",
+              "DocumentMoniker": "C:\\Users\\3Egr1\\source\\repos\\Test1\\Test1.csproj",
+              "RelativeDocumentMoniker": "..\\Test1\\Test1.csproj",
+              "ToolTip": "C:\\Users\\3Egr1\\source\\repos\\Test1\\Test1.csproj",
+              "RelativeToolTip": "..\\Test1\\Test1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T11:18:05.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3Egr1\\source\\repos\\Test1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Test1\\Program.cs",
+              "ToolTip": "C:\\Users\\3Egr1\\source\\repos\\Test1\\Program.cs",
+              "RelativeToolTip": "..\\Test1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:00:39.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\3Egr1\\source\\repos\\WinForms - simple calculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "C:\\Users\\3Egr1\\source\\repos\\WinForms - simple calculator\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:48:44.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\3Egr1\\source\\repos\\WinForms - simple calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\3Egr1\\source\\repos\\WinForms - simple calculator\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:47:57.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\3Egr1\\source\\repos\\WinForms - simple calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\3Egr1\\source\\repos\\WinForms - simple calculator\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:47:35.516Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

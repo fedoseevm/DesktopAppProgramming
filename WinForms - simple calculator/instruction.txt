@@ -1,0 +1,8 @@
+1. Zrobić prosty kalkulator
+2. W tym samym rozwiązaniu stworzyć projekt testowy
+3. zainstalować w tym projekcie 4 Nugety:
+	Microsoft.NET.Test.Sdk
+	NUnit
+	NUnit3TestAdapter
+4. Połączyć projekty (Prawym przyciskiem na Zależności Test1 -> dodaj odwołanie do projektu...)
+5. We właściwościach Test1 zmienić docelowy system operacyjny

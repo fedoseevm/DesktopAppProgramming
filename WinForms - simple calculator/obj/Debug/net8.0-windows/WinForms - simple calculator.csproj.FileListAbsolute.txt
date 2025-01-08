@@ -1,0 +1,16 @@
+C:\Users\3Egr1\source\repos\WinForms - simple calculator\bin\Debug\net8.0-windows\WinForms - simple calculator.exe
+C:\Users\3Egr1\source\repos\WinForms - simple calculator\bin\Debug\net8.0-windows\WinForms - simple calculator.deps.json
+C:\Users\3Egr1\source\repos\WinForms - simple calculator\bin\Debug\net8.0-windows\WinForms - simple calculator.runtimeconfig.json
+C:\Users\3Egr1\source\repos\WinForms - simple calculator\bin\Debug\net8.0-windows\WinForms - simple calculator.dll
+C:\Users\3Egr1\source\repos\WinForms - simple calculator\bin\Debug\net8.0-windows\WinForms - simple calculator.pdb
+C:\Users\3Egr1\source\repos\WinForms - simple calculator\obj\Debug\net8.0-windows\WinForms___simple_calculator.Form1.resources
+C:\Users\3Egr1\source\repos\WinForms - simple calculator\obj\Debug\net8.0-windows\WinForms - simple calculator.csproj.GenerateResource.cache
+C:\Users\3Egr1\source\repos\WinForms - simple calculator\obj\Debug\net8.0-windows\WinForms - simple calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3Egr1\source\repos\WinForms - simple calculator\obj\Debug\net8.0-windows\WinForms - simple calculator.AssemblyInfoInputs.cache
+C:\Users\3Egr1\source\repos\WinForms - simple calculator\obj\Debug\net8.0-windows\WinForms - simple calculator.AssemblyInfo.cs
+C:\Users\3Egr1\source\repos\WinForms - simple calculator\obj\Debug\net8.0-windows\WinForms - simple calculator.csproj.CoreCompileInputs.cache
+C:\Users\3Egr1\source\repos\WinForms - simple calculator\obj\Debug\net8.0-windows\WinForms - simple calculator.dll
+C:\Users\3Egr1\source\repos\WinForms - simple calculator\obj\Debug\net8.0-windows\refint\WinForms - simple calculator.dll
+C:\Users\3Egr1\source\repos\WinForms - simple calculator\obj\Debug\net8.0-windows\WinForms - simple calculator.pdb
+C:\Users\3Egr1\source\repos\WinForms - simple calculator\obj\Debug\net8.0-windows\WinForms - simple calculator.genruntimeconfig.cache
+C:\Users\3Egr1\source\repos\WinForms - simple calculator\obj\Debug\net8.0-windows\ref\WinForms - simple calculator.dll
