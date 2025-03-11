@@ -1,4 +1,4 @@
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
 
 namespace WinForms___dzielenie_przez_7
 {
@@ -20,16 +20,18 @@ namespace WinForms___dzielenie_przez_7
             string number = inputField.Text;
             if (!isValidNumber(number))
             {
-                outputLabel.Text = "Podaj liczb� milionow�!";
+                outputLabel.Text = "Podaj liczbę milionową!";
                 return;
             }
 
             outputLabel.Text = "";
-            int sum = 0;
-            while (number.Length > 0)
-            {
-                Modulo
-            }
+
+            int sumOfRemainders = GetRemaindersSum(number);
+
+            if (sumOfRemainders % 7 == 0)
+                outputLabel.Text = "Liczba jest podzielna przez 7!";
+            else
+                outputLabel.Text = "Liczba nie jest podzielna przez 7!";
         }
 
         private bool isValidNumber(string number)
@@ -39,13 +41,32 @@ namespace WinForms___dzielenie_przez_7
             return regex.IsMatch(number);
         }
 
-        private int Modulo(int number)
+        private int ModuloSeven(int number)
         {
-            for (int i = 1; i <= number / 7; i++)
-            {
+            int n = number / 7;     // Iloraz dzielenia całkowitego
+            return number - 7 * n;
+        }
 
+        private int GetRemaindersSum(int number)
+        {
+            int sum = 0;
+            while (number.Length > 0)
+            {
+                int part;
+                if (number.Length >= 2)
+                {
+                    part = Convert.ToInt32(number.Substring(number.Length - 2));
+                    number = number.Substring(0, number.Length - 2);
+                }
+                else
+                {
+                    part = Convert.ToInt32(number);
+                    number = "";
+                }
+
+                sum += ModuloSeven(part);
             }
-            return number;
+            return sum;
         }
 
         private void outputLabel_Click(object sender, EventArgs e)
