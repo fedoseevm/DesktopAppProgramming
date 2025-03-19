@@ -47,7 +47,7 @@ namespace WinForms___dzielenie_przez_7
             return number - 7 * n;
         }
 
-        private int GetRemaindersSum(int number)
+        private int GetRemaindersSum(string number)
         {
             int sum = 0;
             while (number.Length > 0)

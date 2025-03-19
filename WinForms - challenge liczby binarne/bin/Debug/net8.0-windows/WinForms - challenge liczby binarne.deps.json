@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WinForms - challenge liczby binarne/1.0.0": {
+        "runtime": {
+          "WinForms - challenge liczby binarne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinForms - challenge liczby binarne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

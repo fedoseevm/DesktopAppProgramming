@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinForms - dzielenie przez 7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5529191365f336dc4a0707f4dce4e444bc9f7ef5")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinForms - dzielenie przez 7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinForms - dzielenie przez 7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

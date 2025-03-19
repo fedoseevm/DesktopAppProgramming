@@ -1,0 +1,16 @@
+C:\Users\3Egr1\source\repos\WinForms - challenge liczby binarne\bin\Debug\net8.0-windows\WinForms - challenge liczby binarne.exe
+C:\Users\3Egr1\source\repos\WinForms - challenge liczby binarne\bin\Debug\net8.0-windows\WinForms - challenge liczby binarne.deps.json
+C:\Users\3Egr1\source\repos\WinForms - challenge liczby binarne\bin\Debug\net8.0-windows\WinForms - challenge liczby binarne.runtimeconfig.json
+C:\Users\3Egr1\source\repos\WinForms - challenge liczby binarne\bin\Debug\net8.0-windows\WinForms - challenge liczby binarne.dll
+C:\Users\3Egr1\source\repos\WinForms - challenge liczby binarne\bin\Debug\net8.0-windows\WinForms - challenge liczby binarne.pdb
+C:\Users\3Egr1\source\repos\WinForms - challenge liczby binarne\obj\Debug\net8.0-windows\WinForms___challenge_liczby_binarne.Form1.resources
+C:\Users\3Egr1\source\repos\WinForms - challenge liczby binarne\obj\Debug\net8.0-windows\WinForms - challenge liczby binarne.csproj.GenerateResource.cache
+C:\Users\3Egr1\source\repos\WinForms - challenge liczby binarne\obj\Debug\net8.0-windows\WinForms - challenge liczby binarne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3Egr1\source\repos\WinForms - challenge liczby binarne\obj\Debug\net8.0-windows\WinForms - challenge liczby binarne.AssemblyInfoInputs.cache
+C:\Users\3Egr1\source\repos\WinForms - challenge liczby binarne\obj\Debug\net8.0-windows\WinForms - challenge liczby binarne.AssemblyInfo.cs
+C:\Users\3Egr1\source\repos\WinForms - challenge liczby binarne\obj\Debug\net8.0-windows\WinForms - challenge liczby binarne.csproj.CoreCompileInputs.cache
+C:\Users\3Egr1\source\repos\WinForms - challenge liczby binarne\obj\Debug\net8.0-windows\WinForms - challenge liczby binarne.dll
+C:\Users\3Egr1\source\repos\WinForms - challenge liczby binarne\obj\Debug\net8.0-windows\refint\WinForms - challenge liczby binarne.dll
+C:\Users\3Egr1\source\repos\WinForms - challenge liczby binarne\obj\Debug\net8.0-windows\WinForms - challenge liczby binarne.pdb
+C:\Users\3Egr1\source\repos\WinForms - challenge liczby binarne\obj\Debug\net8.0-windows\WinForms - challenge liczby binarne.genruntimeconfig.cache
+C:\Users\3Egr1\source\repos\WinForms - challenge liczby binarne\obj\Debug\net8.0-windows\ref\WinForms - challenge liczby binarne.dll

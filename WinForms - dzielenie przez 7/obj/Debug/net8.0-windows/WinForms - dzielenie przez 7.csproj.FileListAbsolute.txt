@@ -14,3 +14,20 @@ C:\Users\3Egr1\source\repos\WinForms - dzielenie przez 7\obj\Debug\net8.0-window
 C:\Users\3Egr1\source\repos\WinForms - dzielenie przez 7\obj\Debug\net8.0-windows\WinForms - dzielenie przez 7.pdb
 C:\Users\3Egr1\source\repos\WinForms - dzielenie przez 7\obj\Debug\net8.0-windows\WinForms - dzielenie przez 7.genruntimeconfig.cache
 C:\Users\3Egr1\source\repos\WinForms - dzielenie przez 7\obj\Debug\net8.0-windows\ref\WinForms - dzielenie przez 7.dll
+C:\Users\3Egr1\3E MF\DesktopAppProgramming\WinForms - dzielenie przez 7\bin\Debug\net8.0-windows\WinForms - dzielenie przez 7.exe
+C:\Users\3Egr1\3E MF\DesktopAppProgramming\WinForms - dzielenie przez 7\bin\Debug\net8.0-windows\WinForms - dzielenie przez 7.deps.json
+C:\Users\3Egr1\3E MF\DesktopAppProgramming\WinForms - dzielenie przez 7\bin\Debug\net8.0-windows\WinForms - dzielenie przez 7.runtimeconfig.json
+C:\Users\3Egr1\3E MF\DesktopAppProgramming\WinForms - dzielenie przez 7\bin\Debug\net8.0-windows\WinForms - dzielenie przez 7.dll
+C:\Users\3Egr1\3E MF\DesktopAppProgramming\WinForms - dzielenie przez 7\bin\Debug\net8.0-windows\WinForms - dzielenie przez 7.pdb
+C:\Users\3Egr1\3E MF\DesktopAppProgramming\WinForms - dzielenie przez 7\obj\Debug\net8.0-windows\WinForms___dzielenie_przez_7.Form1.resources
+C:\Users\3Egr1\3E MF\DesktopAppProgramming\WinForms - dzielenie przez 7\obj\Debug\net8.0-windows\WinForms - dzielenie przez 7.csproj.GenerateResource.cache
+C:\Users\3Egr1\3E MF\DesktopAppProgramming\WinForms - dzielenie przez 7\obj\Debug\net8.0-windows\WinForms - dzielenie przez 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3Egr1\3E MF\DesktopAppProgramming\WinForms - dzielenie przez 7\obj\Debug\net8.0-windows\WinForms - dzielenie przez 7.AssemblyInfoInputs.cache
+C:\Users\3Egr1\3E MF\DesktopAppProgramming\WinForms - dzielenie przez 7\obj\Debug\net8.0-windows\WinForms - dzielenie przez 7.AssemblyInfo.cs
+C:\Users\3Egr1\3E MF\DesktopAppProgramming\WinForms - dzielenie przez 7\obj\Debug\net8.0-windows\WinForms - dzielenie przez 7.csproj.CoreCompileInputs.cache
+C:\Users\3Egr1\3E MF\DesktopAppProgramming\WinForms - dzielenie przez 7\obj\Debug\net8.0-windows\WinForms - dzielenie przez 7.sourcelink.json
+C:\Users\3Egr1\3E MF\DesktopAppProgramming\WinForms - dzielenie przez 7\obj\Debug\net8.0-windows\WinForms - dzielenie przez 7.dll
+C:\Users\3Egr1\3E MF\DesktopAppProgramming\WinForms - dzielenie przez 7\obj\Debug\net8.0-windows\refint\WinForms - dzielenie przez 7.dll
+C:\Users\3Egr1\3E MF\DesktopAppProgramming\WinForms - dzielenie przez 7\obj\Debug\net8.0-windows\WinForms - dzielenie przez 7.pdb
+C:\Users\3Egr1\3E MF\DesktopAppProgramming\WinForms - dzielenie przez 7\obj\Debug\net8.0-windows\WinForms - dzielenie przez 7.genruntimeconfig.cache
+C:\Users\3Egr1\3E MF\DesktopAppProgramming\WinForms - dzielenie przez 7\obj\Debug\net8.0-windows\ref\WinForms - dzielenie przez 7.dll
