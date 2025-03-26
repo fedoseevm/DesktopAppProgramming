@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms - dlugosc ciagu z testami", "WinForms - dlugosc ciagu z testami.csproj", "{F5604C31-03D9-4029-95AA-28A23B7CECCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "..\Tests\Tests.csproj", "{88E21703-0B04-4658-A0C6-4EC2FA8FD25B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5604C31-03D9-4029-95AA-28A23B7CECCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5604C31-03D9-4029-95AA-28A23B7CECCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5604C31-03D9-4029-95AA-28A23B7CECCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5604C31-03D9-4029-95AA-28A23B7CECCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E21703-0B04-4658-A0C6-4EC2FA8FD25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E21703-0B04-4658-A0C6-4EC2FA8FD25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E21703-0B04-4658-A0C6-4EC2FA8FD25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E21703-0B04-4658-A0C6-4EC2FA8FD25B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

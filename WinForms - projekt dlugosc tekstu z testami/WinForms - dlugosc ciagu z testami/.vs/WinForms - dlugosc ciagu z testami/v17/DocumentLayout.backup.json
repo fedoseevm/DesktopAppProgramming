@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3Egr1\\source\\repos\\WinForms - dlugosc ciagu z testami\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|c:\\users\\3egr1\\source\\repos\\winforms - dlugosc ciagu z testami\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\3Egr1\\source\\repos\\WinForms - dlugosc ciagu z testami\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\3Egr1\\source\\repos\\WinForms - dlugosc ciagu z testami\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:46:02.222Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
