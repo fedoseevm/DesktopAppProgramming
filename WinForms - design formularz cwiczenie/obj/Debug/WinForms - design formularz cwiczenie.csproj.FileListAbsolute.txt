@@ -1,0 +1,10 @@
+C:\Users\3Egr1\source\repos\WinForms - design formularz cwiczenie\bin\Debug\WinForms - design formularz cwiczenie.exe.config
+C:\Users\3Egr1\source\repos\WinForms - design formularz cwiczenie\bin\Debug\WinForms - design formularz cwiczenie.exe
+C:\Users\3Egr1\source\repos\WinForms - design formularz cwiczenie\bin\Debug\WinForms - design formularz cwiczenie.pdb
+C:\Users\3Egr1\source\repos\WinForms - design formularz cwiczenie\obj\Debug\WinForms - design formularz cwiczenie.csproj.AssemblyReference.cache
+C:\Users\3Egr1\source\repos\WinForms - design formularz cwiczenie\obj\Debug\WinForms___design_formularz_cwiczenie.Form1.resources
+C:\Users\3Egr1\source\repos\WinForms - design formularz cwiczenie\obj\Debug\WinForms___design_formularz_cwiczenie.Properties.Resources.resources
+C:\Users\3Egr1\source\repos\WinForms - design formularz cwiczenie\obj\Debug\WinForms - design formularz cwiczenie.csproj.GenerateResource.cache
+C:\Users\3Egr1\source\repos\WinForms - design formularz cwiczenie\obj\Debug\WinForms - design formularz cwiczenie.csproj.CoreCompileInputs.cache
+C:\Users\3Egr1\source\repos\WinForms - design formularz cwiczenie\obj\Debug\WinForms - design formularz cwiczenie.exe
+C:\Users\3Egr1\source\repos\WinForms - design formularz cwiczenie\obj\Debug\WinForms - design formularz cwiczenie.pdb

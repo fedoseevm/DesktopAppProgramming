@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\3Egr1\\source\\repos\\WinForms - dlugosc ciagu z testami\\",
+  "WorkspaceRootPath": "C:\\Users\\3Egr1\\3E MF\\DesktopAppProgramming\\WinForms - projekt dlugosc tekstu z testami\\WinForms - dlugosc ciagu z testami\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88E21703-0B04-4658-A0C6-4EC2FA8FD25B}|..\\Tests\\Tests.csproj|c:\\users\\3egr1\\source\\repos\\tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88E21703-0B04-4658-A0C6-4EC2FA8FD25B}|..\\Tests\\Tests.csproj|c:\\users\\3egr1\\3e mf\\desktopappprogramming\\winforms - projekt dlugosc tekstu z testami\\tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|c:\\users\\3egr1\\source\\repos\\winforms - dlugosc ciagu z testami\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|solutionrelative:dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|c:\\users\\3egr1\\source\\repos\\winforms - dlugosc ciagu z testami\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|c:\\users\\3egr1\\3e mf\\desktopappprogramming\\winforms - projekt dlugosc tekstu z testami\\winforms - dlugosc ciagu z testami\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|solutionrelative:proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|c:\\users\\3egr1\\source\\repos\\winforms - dlugosc ciagu z testami\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|C:\\Users\\3Egr1\\3E MF\\DesktopAppProgramming\\WinForms - projekt dlugosc tekstu z testami\\WinForms - dlugosc ciagu z testami\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|c:\\users\\3egr1\\3e mf\\desktopappprogramming\\winforms - projekt dlugosc tekstu z testami\\winforms - dlugosc ciagu z testami\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|solutionrelative:dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|c:\\users\\3egr1\\3e mf\\desktopappprogramming\\winforms - projekt dlugosc tekstu z testami\\winforms - dlugosc ciagu z testami\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|solutionrelative:adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|c:\\users\\3egr1\\source\\repos\\winforms - dlugosc ciagu z testami\\iadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|c:\\users\\3egr1\\3e mf\\desktopappprogramming\\winforms - projekt dlugosc tekstu z testami\\winforms - dlugosc ciagu z testami\\iadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|solutionrelative:iadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|c:\\users\\3egr1\\source\\repos\\winforms - dlugosc ciagu z testami\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|c:\\users\\3egr1\\3e mf\\desktopappprogramming\\winforms - projekt dlugosc tekstu z testami\\winforms - dlugosc ciagu z testami\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|solutionrelative:idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|c:\\users\\3egr1\\source\\repos\\winforms - dlugosc ciagu z testami\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F5604C31-03D9-4029-95AA-28A23B7CECCC}|WinForms - dlugosc ciagu z testami.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,22 +43,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\3Egr1\\source\\repos\\Tests\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\3Egr1\\3E MF\\DesktopAppProgramming\\WinForms - projekt dlugosc tekstu z testami\\Tests\\Program.cs",
               "RelativeDocumentMoniker": "..\\Tests\\Program.cs",
-              "ToolTip": "C:\\Users\\3Egr1\\source\\repos\\Tests\\Program.cs",
+              "ToolTip": "C:\\Users\\3Egr1\\3E MF\\DesktopAppProgramming\\WinForms - projekt dlugosc tekstu z testami\\Tests\\Program.cs",
               "RelativeToolTip": "..\\Tests\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T10:10:00.062Z",
+              "WhenOpened": "2025-04-02T08:35:28.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Proxy.cs",
-              "DocumentMoniker": "C:\\Users\\3Egr1\\source\\repos\\WinForms - dlugosc ciagu z testami\\Proxy.cs",
+              "DocumentMoniker": "C:\\Users\\3Egr1\\3E MF\\DesktopAppProgramming\\WinForms - projekt dlugosc tekstu z testami\\WinForms - dlugosc ciagu z testami\\Proxy.cs",
               "RelativeDocumentMoniker": "Proxy.cs",
-              "ToolTip": "C:\\Users\\3Egr1\\source\\repos\\WinForms - dlugosc ciagu z testami\\Proxy.cs",
+              "ToolTip": "C:\\Users\\3Egr1\\3E MF\\DesktopAppProgramming\\WinForms - projekt dlugosc tekstu z testami\\WinForms - dlugosc ciagu z testami\\Proxy.cs",
               "RelativeToolTip": "Proxy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,63 +67,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Adapter.cs",
-              "DocumentMoniker": "C:\\Users\\3Egr1\\source\\repos\\WinForms - dlugosc ciagu z testami\\Adapter.cs",
+              "DocumentMoniker": "C:\\Users\\3Egr1\\3E MF\\DesktopAppProgramming\\WinForms - projekt dlugosc tekstu z testami\\WinForms - dlugosc ciagu z testami\\Adapter.cs",
               "RelativeDocumentMoniker": "Adapter.cs",
-              "ToolTip": "C:\\Users\\3Egr1\\source\\repos\\WinForms - dlugosc ciagu z testami\\Adapter.cs",
+              "ToolTip": "C:\\Users\\3Egr1\\3E MF\\DesktopAppProgramming\\WinForms - projekt dlugosc tekstu z testami\\WinForms - dlugosc ciagu z testami\\Adapter.cs",
               "RelativeToolTip": "Adapter.cs",
               "ViewState": "AgIAAAAAAAAAAADoSXoRwA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:53:28.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAdapter.cs",
-              "DocumentMoniker": "C:\\Users\\3Egr1\\source\\repos\\WinForms - dlugosc ciagu z testami\\IAdapter.cs",
-              "RelativeDocumentMoniker": "IAdapter.cs",
-              "ToolTip": "C:\\Users\\3Egr1\\source\\repos\\WinForms - dlugosc ciagu z testami\\IAdapter.cs",
-              "RelativeToolTip": "IAdapter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:51:20.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T09:53:28.122Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IDao.cs",
-              "DocumentMoniker": "C:\\Users\\3Egr1\\source\\repos\\WinForms - dlugosc ciagu z testami\\IDao.cs",
-              "RelativeDocumentMoniker": "IDao.cs",
-              "ToolTip": "C:\\Users\\3Egr1\\source\\repos\\WinForms - dlugosc ciagu z testami\\IDao.cs",
-              "RelativeToolTip": "IDao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Title": "IAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\3Egr1\\3E MF\\DesktopAppProgramming\\WinForms - projekt dlugosc tekstu z testami\\WinForms - dlugosc ciagu z testami\\IAdapter.cs",
+              "RelativeDocumentMoniker": "IAdapter.cs",
+              "ToolTip": "C:\\Users\\3Egr1\\3E MF\\DesktopAppProgramming\\WinForms - projekt dlugosc tekstu z testami\\WinForms - dlugosc ciagu z testami\\IAdapter.cs",
+              "RelativeToolTip": "IAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:47:03.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DAO.cs",
-              "DocumentMoniker": "C:\\Users\\3Egr1\\source\\repos\\WinForms - dlugosc ciagu z testami\\DAO.cs",
-              "RelativeDocumentMoniker": "DAO.cs",
-              "ToolTip": "C:\\Users\\3Egr1\\source\\repos\\WinForms - dlugosc ciagu z testami\\DAO.cs",
-              "RelativeToolTip": "DAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T10:00:09.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T09:51:20.314Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "IDao.cs",
+              "DocumentMoniker": "C:\\Users\\3Egr1\\3E MF\\DesktopAppProgramming\\WinForms - projekt dlugosc tekstu z testami\\WinForms - dlugosc ciagu z testami\\IDao.cs",
+              "RelativeDocumentMoniker": "IDao.cs",
+              "ToolTip": "C:\\Users\\3Egr1\\3E MF\\DesktopAppProgramming\\WinForms - projekt dlugosc tekstu z testami\\WinForms - dlugosc ciagu z testami\\IDao.cs",
+              "RelativeToolTip": "IDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:47:03.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAO.cs",
+              "DocumentMoniker": "C:\\Users\\3Egr1\\3E MF\\DesktopAppProgramming\\WinForms - projekt dlugosc tekstu z testami\\WinForms - dlugosc ciagu z testami\\DAO.cs",
+              "RelativeDocumentMoniker": "DAO.cs",
+              "ToolTip": "C:\\Users\\3Egr1\\3E MF\\DesktopAppProgramming\\WinForms - projekt dlugosc tekstu z testami\\WinForms - dlugosc ciagu z testami\\DAO.cs",
+              "RelativeToolTip": "DAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:00:09.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Projekt]",
-              "DocumentMoniker": "C:\\Users\\3Egr1\\source\\repos\\WinForms - dlugosc ciagu z testami\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\3Egr1\\3E MF\\DesktopAppProgramming\\WinForms - projekt dlugosc tekstu z testami\\WinForms - dlugosc ciagu z testami\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\3Egr1\\source\\repos\\WinForms - dlugosc ciagu z testami\\Form1.cs [Projekt]",
+              "ToolTip": "C:\\Users\\3Egr1\\3E MF\\DesktopAppProgramming\\WinForms - projekt dlugosc tekstu z testami\\WinForms - dlugosc ciagu z testami\\Form1.cs [Projekt]",
               "RelativeToolTip": "Form1.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T09:46:02.222Z",

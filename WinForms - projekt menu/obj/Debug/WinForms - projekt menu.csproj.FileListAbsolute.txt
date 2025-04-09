@@ -1,0 +1,10 @@
+C:\Users\3Egr1\source\repos\WinForms - projekt menu\bin\Debug\WinForms - projekt menu.exe.config
+C:\Users\3Egr1\source\repos\WinForms - projekt menu\bin\Debug\WinForms - projekt menu.exe
+C:\Users\3Egr1\source\repos\WinForms - projekt menu\bin\Debug\WinForms - projekt menu.pdb
+C:\Users\3Egr1\source\repos\WinForms - projekt menu\obj\Debug\WinForms - projekt menu.csproj.AssemblyReference.cache
+C:\Users\3Egr1\source\repos\WinForms - projekt menu\obj\Debug\WinForms___projekt_menu.Form1.resources
+C:\Users\3Egr1\source\repos\WinForms - projekt menu\obj\Debug\WinForms___projekt_menu.Properties.Resources.resources
+C:\Users\3Egr1\source\repos\WinForms - projekt menu\obj\Debug\WinForms - projekt menu.csproj.GenerateResource.cache
+C:\Users\3Egr1\source\repos\WinForms - projekt menu\obj\Debug\WinForms - projekt menu.csproj.CoreCompileInputs.cache
+C:\Users\3Egr1\source\repos\WinForms - projekt menu\obj\Debug\WinForms - projekt menu.exe
+C:\Users\3Egr1\source\repos\WinForms - projekt menu\obj\Debug\WinForms - projekt menu.pdb

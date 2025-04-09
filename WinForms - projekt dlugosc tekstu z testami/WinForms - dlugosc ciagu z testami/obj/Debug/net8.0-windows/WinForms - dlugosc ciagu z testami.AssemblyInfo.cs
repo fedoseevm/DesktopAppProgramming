@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinForms - dlugosc ciagu z testami")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8f85c6f53493e33a9386a04e98419dcf7c2fa67")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinForms - dlugosc ciagu z testami")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinForms - dlugosc ciagu z testami")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

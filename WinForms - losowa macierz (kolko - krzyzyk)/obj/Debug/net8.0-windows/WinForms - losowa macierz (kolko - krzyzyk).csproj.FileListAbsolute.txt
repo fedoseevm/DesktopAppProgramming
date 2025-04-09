@@ -1,0 +1,16 @@
+C:\Users\3Egr1\source\repos\WinForms - losowa macierz (kolko - krzyzyk)\bin\Debug\net8.0-windows\WinForms - losowa macierz (kolko - krzyzyk).exe
+C:\Users\3Egr1\source\repos\WinForms - losowa macierz (kolko - krzyzyk)\bin\Debug\net8.0-windows\WinForms - losowa macierz (kolko - krzyzyk).deps.json
+C:\Users\3Egr1\source\repos\WinForms - losowa macierz (kolko - krzyzyk)\bin\Debug\net8.0-windows\WinForms - losowa macierz (kolko - krzyzyk).runtimeconfig.json
+C:\Users\3Egr1\source\repos\WinForms - losowa macierz (kolko - krzyzyk)\bin\Debug\net8.0-windows\WinForms - losowa macierz (kolko - krzyzyk).dll
+C:\Users\3Egr1\source\repos\WinForms - losowa macierz (kolko - krzyzyk)\bin\Debug\net8.0-windows\WinForms - losowa macierz (kolko - krzyzyk).pdb
+C:\Users\3Egr1\source\repos\WinForms - losowa macierz (kolko - krzyzyk)\obj\Debug\net8.0-windows\WinForms___losowa_macierz__kolko___krzyzyk_.Form1.resources
+C:\Users\3Egr1\source\repos\WinForms - losowa macierz (kolko - krzyzyk)\obj\Debug\net8.0-windows\WinForms - losowa macierz (kolko - krzyzyk).csproj.GenerateResource.cache
+C:\Users\3Egr1\source\repos\WinForms - losowa macierz (kolko - krzyzyk)\obj\Debug\net8.0-windows\WinForms - losowa macierz (kolko - krzyzyk).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3Egr1\source\repos\WinForms - losowa macierz (kolko - krzyzyk)\obj\Debug\net8.0-windows\WinForms - losowa macierz (kolko - krzyzyk).AssemblyInfoInputs.cache
+C:\Users\3Egr1\source\repos\WinForms - losowa macierz (kolko - krzyzyk)\obj\Debug\net8.0-windows\WinForms - losowa macierz (kolko - krzyzyk).AssemblyInfo.cs
+C:\Users\3Egr1\source\repos\WinForms - losowa macierz (kolko - krzyzyk)\obj\Debug\net8.0-windows\WinForms - losowa macierz (kolko - krzyzyk).csproj.CoreCompileInputs.cache
+C:\Users\3Egr1\source\repos\WinForms - losowa macierz (kolko - krzyzyk)\obj\Debug\net8.0-windows\WinForms - losowa macierz (kolko - krzyzyk).dll
+C:\Users\3Egr1\source\repos\WinForms - losowa macierz (kolko - krzyzyk)\obj\Debug\net8.0-windows\refint\WinForms - losowa macierz (kolko - krzyzyk).dll
+C:\Users\3Egr1\source\repos\WinForms - losowa macierz (kolko - krzyzyk)\obj\Debug\net8.0-windows\WinForms - losowa macierz (kolko - krzyzyk).pdb
+C:\Users\3Egr1\source\repos\WinForms - losowa macierz (kolko - krzyzyk)\obj\Debug\net8.0-windows\WinForms - losowa macierz (kolko - krzyzyk).genruntimeconfig.cache
+C:\Users\3Egr1\source\repos\WinForms - losowa macierz (kolko - krzyzyk)\obj\Debug\net8.0-windows\ref\WinForms - losowa macierz (kolko - krzyzyk).dll
