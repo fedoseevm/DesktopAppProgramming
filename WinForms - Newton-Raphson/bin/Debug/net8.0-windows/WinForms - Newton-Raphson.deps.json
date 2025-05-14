@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WinForms - Newton-Raphson/1.0.0": {
+        "runtime": {
+          "WinForms - Newton-Raphson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinForms - Newton-Raphson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

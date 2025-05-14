@@ -1,0 +1,16 @@
+C:\Users\3Egr1\source\repos\WinForms - Newton-Raphson\bin\Debug\net8.0-windows\WinForms - Newton-Raphson.exe
+C:\Users\3Egr1\source\repos\WinForms - Newton-Raphson\bin\Debug\net8.0-windows\WinForms - Newton-Raphson.deps.json
+C:\Users\3Egr1\source\repos\WinForms - Newton-Raphson\bin\Debug\net8.0-windows\WinForms - Newton-Raphson.runtimeconfig.json
+C:\Users\3Egr1\source\repos\WinForms - Newton-Raphson\bin\Debug\net8.0-windows\WinForms - Newton-Raphson.dll
+C:\Users\3Egr1\source\repos\WinForms - Newton-Raphson\bin\Debug\net8.0-windows\WinForms - Newton-Raphson.pdb
+C:\Users\3Egr1\source\repos\WinForms - Newton-Raphson\obj\Debug\net8.0-windows\WinForms___Newton_Raphson.Form1.resources
+C:\Users\3Egr1\source\repos\WinForms - Newton-Raphson\obj\Debug\net8.0-windows\WinForms - Newton-Raphson.csproj.GenerateResource.cache
+C:\Users\3Egr1\source\repos\WinForms - Newton-Raphson\obj\Debug\net8.0-windows\WinForms - Newton-Raphson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3Egr1\source\repos\WinForms - Newton-Raphson\obj\Debug\net8.0-windows\WinForms - Newton-Raphson.AssemblyInfoInputs.cache
+C:\Users\3Egr1\source\repos\WinForms - Newton-Raphson\obj\Debug\net8.0-windows\WinForms - Newton-Raphson.AssemblyInfo.cs
+C:\Users\3Egr1\source\repos\WinForms - Newton-Raphson\obj\Debug\net8.0-windows\WinForms - Newton-Raphson.csproj.CoreCompileInputs.cache
+C:\Users\3Egr1\source\repos\WinForms - Newton-Raphson\obj\Debug\net8.0-windows\WinForms - Newton-Raphson.dll
+C:\Users\3Egr1\source\repos\WinForms - Newton-Raphson\obj\Debug\net8.0-windows\refint\WinForms - Newton-Raphson.dll
+C:\Users\3Egr1\source\repos\WinForms - Newton-Raphson\obj\Debug\net8.0-windows\WinForms - Newton-Raphson.pdb
+C:\Users\3Egr1\source\repos\WinForms - Newton-Raphson\obj\Debug\net8.0-windows\WinForms - Newton-Raphson.genruntimeconfig.cache
+C:\Users\3Egr1\source\repos\WinForms - Newton-Raphson\obj\Debug\net8.0-windows\ref\WinForms - Newton-Raphson.dll
