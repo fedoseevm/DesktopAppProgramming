@@ -1,0 +1,16 @@
+C:\Users\3Egr1\source\repos\WinForms - ToDo Lista\bin\Debug\net8.0-windows\WinForms - ToDo Lista.exe
+C:\Users\3Egr1\source\repos\WinForms - ToDo Lista\bin\Debug\net8.0-windows\WinForms - ToDo Lista.deps.json
+C:\Users\3Egr1\source\repos\WinForms - ToDo Lista\bin\Debug\net8.0-windows\WinForms - ToDo Lista.runtimeconfig.json
+C:\Users\3Egr1\source\repos\WinForms - ToDo Lista\bin\Debug\net8.0-windows\WinForms - ToDo Lista.dll
+C:\Users\3Egr1\source\repos\WinForms - ToDo Lista\bin\Debug\net8.0-windows\WinForms - ToDo Lista.pdb
+C:\Users\3Egr1\source\repos\WinForms - ToDo Lista\obj\Debug\net8.0-windows\WinForms___ToDo_Lista.Form1.resources
+C:\Users\3Egr1\source\repos\WinForms - ToDo Lista\obj\Debug\net8.0-windows\WinForms - ToDo Lista.csproj.GenerateResource.cache
+C:\Users\3Egr1\source\repos\WinForms - ToDo Lista\obj\Debug\net8.0-windows\WinForms - ToDo Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3Egr1\source\repos\WinForms - ToDo Lista\obj\Debug\net8.0-windows\WinForms - ToDo Lista.AssemblyInfoInputs.cache
+C:\Users\3Egr1\source\repos\WinForms - ToDo Lista\obj\Debug\net8.0-windows\WinForms - ToDo Lista.AssemblyInfo.cs
+C:\Users\3Egr1\source\repos\WinForms - ToDo Lista\obj\Debug\net8.0-windows\WinForms - ToDo Lista.csproj.CoreCompileInputs.cache
+C:\Users\3Egr1\source\repos\WinForms - ToDo Lista\obj\Debug\net8.0-windows\WinForms - ToDo Lista.dll
+C:\Users\3Egr1\source\repos\WinForms - ToDo Lista\obj\Debug\net8.0-windows\refint\WinForms - ToDo Lista.dll
+C:\Users\3Egr1\source\repos\WinForms - ToDo Lista\obj\Debug\net8.0-windows\WinForms - ToDo Lista.pdb
+C:\Users\3Egr1\source\repos\WinForms - ToDo Lista\obj\Debug\net8.0-windows\WinForms - ToDo Lista.genruntimeconfig.cache
+C:\Users\3Egr1\source\repos\WinForms - ToDo Lista\obj\Debug\net8.0-windows\ref\WinForms - ToDo Lista.dll
