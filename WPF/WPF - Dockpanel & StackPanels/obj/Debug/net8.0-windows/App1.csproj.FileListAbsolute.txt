@@ -1,0 +1,2 @@
+C:\Users\4Egr1\source\repos\App1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\4Egr1\source\repos\App1\obj\Debug\net8.0-windows\App1_MarkupCompile.cache

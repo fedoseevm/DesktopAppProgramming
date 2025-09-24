@@ -1,0 +1,10 @@
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WindowsForms - TODO_1\bin\Debug\WindowsForms - TODO_1.exe.config
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WindowsForms - TODO_1\bin\Debug\WindowsForms - TODO_1.exe
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WindowsForms - TODO_1\bin\Debug\WindowsForms - TODO_1.pdb
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WindowsForms - TODO_1\obj\Debug\WindowsForms - TODO_1.csproj.AssemblyReference.cache
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WindowsForms - TODO_1\obj\Debug\WindowsForms___TODO_1.Form1.resources
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WindowsForms - TODO_1\obj\Debug\WindowsForms___TODO_1.Properties.Resources.resources
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WindowsForms - TODO_1\obj\Debug\WindowsForms - TODO_1.csproj.GenerateResource.cache
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WindowsForms - TODO_1\obj\Debug\WindowsForms - TODO_1.csproj.CoreCompileInputs.cache
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WindowsForms - TODO_1\obj\Debug\WindowsForms - TODO_1.exe
+C:\Users\3Egr1\Repos\DesktopAppProgramming\WindowsForms - TODO_1\obj\Debug\WindowsForms - TODO_1.pdb
