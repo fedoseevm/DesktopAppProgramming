@@ -1,0 +1,40 @@
+﻿<Window x:Class="KartkowkaPart2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KartkowkaPart2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="270" Width="500">
+    <DockPanel>
+        <DockPanel DockPanel.Dock="Left" LastChildFill="False" Margin="10">
+            <StackPanel DockPanel.Dock="Top" Orientation="Vertical">
+                <StackPanel.Resources>
+                    <Style TargetType="Button">
+                        <Setter Property="Margin" Value="0 0 0 10" />
+                        <Setter Property="Height" Value="25" />
+                    </Style>
+                </StackPanel.Resources>
+                <Button Content="Dodaj operacje dodawania" />
+                <Button Content="Dodaj operacje odejmowania" />
+                <Button Content="Dodaj operacje mnożenia" />
+                <Button Content="Dodaj operacje dzielenia" />
+            </StackPanel>
+            <StackPanel DockPanel.Dock="Bottom">
+                <Label Content="Wynik:" />
+                <Label Content="Wynik:" />
+            </StackPanel>
+        </DockPanel>
+        <StackPanel DockPanel.Dock="Right" Orientation="Vertical" Margin="10">
+            <Label Content="Lista operacji:" />
+            <ListBox Margin="0 5" Height="100">
+                
+            </ListBox>
+            <DockPanel LastChildFill="False">
+                <Label DockPanel.Dock="Left" Content="Zmienna modyfikująca" />
+                <TextBox DockPanel.Dock="Right" VerticalAlignment="Stretch" Text="100"  Width="120" Margin="0 0 0 5"/>
+            </DockPanel>
+            <Button Content="Wykonuj" />
+        </StackPanel>
+    </DockPanel>
+</Window>
