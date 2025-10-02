@@ -1,0 +1,20 @@
+C:\Users\4Egr1\source\repos\Simple WPF Control\bin\Debug\net8.0-windows\Simple WPF Control.exe
+C:\Users\4Egr1\source\repos\Simple WPF Control\bin\Debug\net8.0-windows\Simple WPF Control.deps.json
+C:\Users\4Egr1\source\repos\Simple WPF Control\bin\Debug\net8.0-windows\Simple WPF Control.runtimeconfig.json
+C:\Users\4Egr1\source\repos\Simple WPF Control\bin\Debug\net8.0-windows\Simple WPF Control.dll
+C:\Users\4Egr1\source\repos\Simple WPF Control\bin\Debug\net8.0-windows\Simple WPF Control.pdb
+C:\Users\4Egr1\source\repos\Simple WPF Control\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\4Egr1\source\repos\Simple WPF Control\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\4Egr1\source\repos\Simple WPF Control\obj\Debug\net8.0-windows\Simple WPF Control_MarkupCompile.cache
+C:\Users\4Egr1\source\repos\Simple WPF Control\obj\Debug\net8.0-windows\Simple WPF Control_MarkupCompile.lref
+C:\Users\4Egr1\source\repos\Simple WPF Control\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\4Egr1\source\repos\Simple WPF Control\obj\Debug\net8.0-windows\Simple WPF Control.g.resources
+C:\Users\4Egr1\source\repos\Simple WPF Control\obj\Debug\net8.0-windows\Simple WPF Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4Egr1\source\repos\Simple WPF Control\obj\Debug\net8.0-windows\Simple WPF Control.AssemblyInfoInputs.cache
+C:\Users\4Egr1\source\repos\Simple WPF Control\obj\Debug\net8.0-windows\Simple WPF Control.AssemblyInfo.cs
+C:\Users\4Egr1\source\repos\Simple WPF Control\obj\Debug\net8.0-windows\Simple WPF Control.csproj.CoreCompileInputs.cache
+C:\Users\4Egr1\source\repos\Simple WPF Control\obj\Debug\net8.0-windows\Simple WPF Control.dll
+C:\Users\4Egr1\source\repos\Simple WPF Control\obj\Debug\net8.0-windows\refint\Simple WPF Control.dll
+C:\Users\4Egr1\source\repos\Simple WPF Control\obj\Debug\net8.0-windows\Simple WPF Control.pdb
+C:\Users\4Egr1\source\repos\Simple WPF Control\obj\Debug\net8.0-windows\Simple WPF Control.genruntimeconfig.cache
+C:\Users\4Egr1\source\repos\Simple WPF Control\obj\Debug\net8.0-windows\ref\Simple WPF Control.dll
