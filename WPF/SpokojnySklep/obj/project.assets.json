@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\4Egr1\\source\\repos\\SpokojnySklep\\SpokojnySklep.csproj",
+      "projectUniqueName": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\SpokojnySklep\\SpokojnySklep.csproj",
       "projectName": "SpokojnySklep",
-      "projectPath": "C:\\Users\\4Egr1\\source\\repos\\SpokojnySklep\\SpokojnySklep.csproj",
+      "projectPath": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\SpokojnySklep\\SpokojnySklep.csproj",
       "packagesPath": "C:\\Users\\4Egr1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\4Egr1\\source\\repos\\SpokojnySklep\\obj\\",
+      "outputPath": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\SpokojnySklep\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

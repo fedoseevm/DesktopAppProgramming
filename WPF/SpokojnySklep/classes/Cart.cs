@@ -21,6 +21,8 @@ namespace SpokojnySklep.classes
         {
             Products.Add(new PhysicalProduct("Computer", 400));
             Products.Add(new PhysicalProduct("Zinger", 15));
+            Products.Add(new PhysicalProduct("Shirt", 75));
+            Products.Add(new PhysicalProduct("Boat", 320));
         }
 
         public int CalculateCartValue()
@@ -28,7 +30,7 @@ namespace SpokojnySklep.classes
             int value = 0;
             foreach (var item in Products)
             {
-                value += item.Cena;
+                value += item.Price;
             }
             return value;
         }

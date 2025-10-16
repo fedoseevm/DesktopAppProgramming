@@ -9,13 +9,13 @@ namespace SpokojnySklep.classes
 {
     internal abstract class Product
     {
-        public string Nazwa;
-        public int Cena;
+        public string Name;
+        public int Price;
 
-        protected Product(string nazwa, int cena)
+        protected Product(string name, int price)
         {
-            Nazwa = nazwa;
-            Cena = cena;
+            Name = name;
+            Price = price;
         }
     }
 }
