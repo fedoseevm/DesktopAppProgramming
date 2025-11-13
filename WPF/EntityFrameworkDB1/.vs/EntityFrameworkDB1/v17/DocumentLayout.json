@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\4Egr1\\source\\repos\\EntityFrameworkDB1\\",
+  "WorkspaceRootPath": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\EntityFrameworkDB1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|c:\\users\\4egr1\\source\\repos\\entityframeworkdb1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|c:\\users\\4egr1\\source\\repos\\entityframeworkdb1\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|solutionrelative:dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|c:\\users\\4egr1\\source\\repos\\entityframeworkdb1\\osobacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|c:\\users\\4egr1\\4e mf\\desktopappprogramming\\wpf\\entityframeworkdb1\\osobacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|solutionrelative:osobacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|c:\\users\\4egr1\\source\\repos\\entityframeworkdb1\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|solutionrelative:osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|c:\\users\\4egr1\\4e mf\\desktopappprogramming\\wpf\\entityframeworkdb1\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|solutionrelative:dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|c:\\users\\4egr1\\source\\repos\\entityframeworkdb1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|c:\\users\\4egr1\\4e mf\\desktopappprogramming\\wpf\\entityframeworkdb1\\entityframeworkdb1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|solutionrelative:entityframeworkdb1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|c:\\users\\4egr1\\4e mf\\desktopappprogramming\\wpf\\entityframeworkdb1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|c:\\users\\4egr1\\4e mf\\desktopappprogramming\\wpf\\entityframeworkdb1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|c:\\users\\4egr1\\source\\repos\\entityframeworkdb1\\entityframeworkdb1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|solutionrelative:entityframeworkdb1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|c:\\users\\4egr1\\4e mf\\desktopappprogramming\\wpf\\entityframeworkdb1\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A3E785-2DB4-4685-A341-19847E079AC8}|EntityFrameworkDB1.csproj|solutionrelative:osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DAO.cs",
-              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\EntityFrameworkDB1\\DAO.cs",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\EntityFrameworkDB1\\DAO.cs",
               "RelativeDocumentMoniker": "DAO.cs",
-              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\EntityFrameworkDB1\\DAO.cs",
+              "ToolTip": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\EntityFrameworkDB1\\DAO.cs",
               "RelativeToolTip": "DAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,11 +51,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Osoba.cs",
-              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\EntityFrameworkDB1\\Osoba.cs",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\EntityFrameworkDB1\\Osoba.cs",
               "RelativeDocumentMoniker": "Osoba.cs",
-              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\EntityFrameworkDB1\\Osoba.cs",
+              "ToolTip": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\EntityFrameworkDB1\\Osoba.cs",
               "RelativeToolTip": "Osoba.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -64,13 +64,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "OsobaContext.cs",
-              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\EntityFrameworkDB1\\OsobaContext.cs",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\EntityFrameworkDB1\\OsobaContext.cs",
               "RelativeDocumentMoniker": "OsobaContext.cs",
-              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\EntityFrameworkDB1\\OsobaContext.cs",
+              "ToolTip": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\EntityFrameworkDB1\\OsobaContext.cs",
               "RelativeToolTip": "OsobaContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T13:10:16.711Z",
               "EditorCaption": ""
@@ -79,9 +79,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\EntityFrameworkDB1\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\EntityFrameworkDB1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\EntityFrameworkDB1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\EntityFrameworkDB1\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-30T11:53:22.088Z",
@@ -89,24 +89,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\EntityFrameworkDB1\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\EntityFrameworkDB1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\EntityFrameworkDB1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\EntityFrameworkDB1\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwDwAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T11:53:19.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EntityFrameworkDB1",
-              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\EntityFrameworkDB1\\EntityFrameworkDB1.csproj",
+              "DocumentIndex": 2,
+              "Title": "EntityFrameworkDB1.csproj",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\EntityFrameworkDB1\\EntityFrameworkDB1.csproj",
               "RelativeDocumentMoniker": "EntityFrameworkDB1.csproj",
-              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\EntityFrameworkDB1\\EntityFrameworkDB1.csproj",
+              "ToolTip": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\EntityFrameworkDB1\\EntityFrameworkDB1.csproj",
               "RelativeToolTip": "EntityFrameworkDB1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

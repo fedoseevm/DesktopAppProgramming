@@ -1271,11 +1271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\4Egr1\\source\\repos\\EntityFrameworkDB1\\EntityFrameworkDB1.csproj",
+      "projectUniqueName": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\EntityFrameworkDB1\\EntityFrameworkDB1.csproj",
       "projectName": "EntityFrameworkDB1",
-      "projectPath": "C:\\Users\\4Egr1\\source\\repos\\EntityFrameworkDB1\\EntityFrameworkDB1.csproj",
+      "projectPath": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\EntityFrameworkDB1\\EntityFrameworkDB1.csproj",
       "packagesPath": "C:\\Users\\4Egr1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\4Egr1\\source\\repos\\EntityFrameworkDB1\\obj\\",
+      "outputPath": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\EntityFrameworkDB1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
