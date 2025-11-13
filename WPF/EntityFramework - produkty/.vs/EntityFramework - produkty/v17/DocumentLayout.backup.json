@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{63ADFCD4-4E93-456A-B468-99A72844ADAE}|EntityFramework - produkty.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{63ADFCD4-4E93-456A-B468-99A72844ADAE}|EntityFramework - produkty.csproj|c:\\users\\4egr1\\source\\repos\\entityframework - produkty\\koszykcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ADFCD4-4E93-456A-B468-99A72844ADAE}|EntityFramework - produkty.csproj|solutionrelative:koszykcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{63ADFCD4-4E93-456A-B468-99A72844ADAE}|EntityFramework - produkty.csproj|c:\\users\\4egr1\\source\\repos\\entityframework - produkty\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{63ADFCD4-4E93-456A-B468-99A72844ADAE}|EntityFramework - produkty.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63ADFCD4-4E93-456A-B468-99A72844ADAE}|EntityFramework - produkty.csproj|c:\\users\\4egr1\\source\\repos\\entityframework - produkty\\koszykbiznes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63ADFCD4-4E93-456A-B468-99A72844ADAE}|EntityFramework - produkty.csproj|solutionrelative:koszykbiznes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63ADFCD4-4E93-456A-B468-99A72844ADAE}|EntityFramework - produkty.csproj|c:\\users\\4egr1\\source\\repos\\entityframework - produkty\\koszykcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63ADFCD4-4E93-456A-B468-99A72844ADAE}|EntityFramework - produkty.csproj|solutionrelative:koszykcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63ADFCD4-4E93-456A-B468-99A72844ADAE}|EntityFramework - produkty.csproj|c:\\users\\4egr1\\source\\repos\\entityframework - produkty\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "KoszykBiznes.cs",
               "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\EntityFramework - produkty\\KoszykBiznes.cs",
               "RelativeDocumentMoniker": "KoszykBiznes.cs",
@@ -51,13 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "KoszykContext.cs",
               "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\EntityFramework - produkty\\KoszykContext.cs",
               "RelativeDocumentMoniker": "KoszykContext.cs",
               "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\EntityFramework - produkty\\KoszykContext.cs",
               "RelativeToolTip": "KoszykContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T12:44:08.66Z",
               "EditorCaption": ""
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\EntityFramework - produkty\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -108,7 +108,7 @@
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\EntityFramework - produkty\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T12:09:08.581Z",
               "EditorCaption": ""

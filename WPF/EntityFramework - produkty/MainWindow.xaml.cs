@@ -20,6 +20,7 @@ namespace EntityFramework___produkty
         {
             InitializeComponent();
             KoszykBiznes koszykBiznes = new KoszykBiznes();
+            koszykBiznes.KoszykContext.Database.EnsureCreated();
             koszykBiznes.KoszykContext.MySeed();
         }
     }

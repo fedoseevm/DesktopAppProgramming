@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "czok1364YeI=",
+  "dgSpecHash": "0BY3SPFv2XY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\4Egr1\\source\\repos\\EntityFramework - produkty\\EntityFramework - produkty.csproj",
+  "projectFilePath": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\WPF\\EntityFramework - produkty\\EntityFramework - produkty.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\4Egr1\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.11\\microsoft.data.sqlite.core.9.0.11.nupkg.sha512",
     "C:\\Users\\4Egr1\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.11\\microsoft.entityframeworkcore.9.0.11.nupkg.sha512",
