@@ -1,0 +1,39 @@
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\EntityFramework - produkty.exe
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\EntityFramework - produkty.deps.json
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\EntityFramework - produkty.runtimeconfig.json
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\EntityFramework - produkty.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\EntityFramework - produkty.pdb
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\obj\Debug\net9.0-windows\EntityFramework - produkty_MarkupCompile.cache
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\obj\Debug\net9.0-windows\EntityFramework - produkty_MarkupCompile.lref
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\obj\Debug\net9.0-windows\EntityFramework - produkty.g.resources
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\obj\Debug\net9.0-windows\EntityFramework - produkty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\obj\Debug\net9.0-windows\EntityFramework - produkty.AssemblyInfoInputs.cache
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\obj\Debug\net9.0-windows\EntityFramework - produkty.AssemblyInfo.cs
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\obj\Debug\net9.0-windows\EntityFramework - produkty.csproj.CoreCompileInputs.cache
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\obj\Debug\net9.0-windows\EntityFramework - produkty.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\obj\Debug\net9.0-windows\refint\EntityFramework - produkty.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\obj\Debug\net9.0-windows\EntityFramework - produkty.pdb
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\obj\Debug\net9.0-windows\EntityFramework - produkty.genruntimeconfig.cache
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\obj\Debug\net9.0-windows\ref\EntityFramework - produkty.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\SQLitePCLRaw.core.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\bin\Debug\net9.0-windows\System.Text.Json.dll
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\obj\Debug\net9.0-windows\EntityFramework - produkty.csproj.AssemblyReference.cache
+C:\Users\4Egr1\source\repos\EntityFramework - produkty\obj\Debug\net9.0-windows\EntityFr.4371E420.Up2Date
