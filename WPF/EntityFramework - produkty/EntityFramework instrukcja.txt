@@ -1,0 +1,97 @@
+1. Dependencies / Plugins
+
+Projekt WPF normalny v .NET 9
+Microsoft.EntityFrameworkCore.Sqlite.Core v 9.0.11
+SQLitePCLRaw.bundle_e_sqlite3 v 3
+
+2. Klasy i Lokalizacja
+
+coś rozszerzającego DbContext
+onConfiguring()
+DataSet<Model>
+Kategoria.cs Produkt.cs (klucze???) Reference?
+Koszyk.cs (biznes)
+
+3. Model
+
+class Kategoria
+{
+    public int Id { get; set; }
+    public string Nazwa { get; set; }
+}
+
+class Produkt
+{
+    public int Id { get; set; }
+    public string Nazwa { get; set; }
+    public float Cena { get; set; }
+    public int KategoriaId { get; set; }
+    public Kategoria Kategoria { get; set; }
+}
+
+4. Baza
+
+KoszykContext : DbContext
+- datasety -> śmiech
+- onConfiguring -> śmiech
+- initialdata -> nietrywialne
+
+
+
+class KoszykContext : DbContext
+{
+    public DbSet<Kategoria> Kategorie {  get; set; }
+    public DbSet<Produkt> Produkty { get; set; }
+
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        optionsBuilder.UseSqlite("Data Source=../../../Koszyk.db");
+    }
+}
+
+
+Initial data jest w App.cs w metodzie onStartup. Są inne techniki jak migration, hasdata itp. 
+
+protected override void OnStartup(StartupEventArgs e)
+{
+    base.OnStartup(e);
+
+    using var db = new KoszykContext();
+    //db.Database.Migrate();    // tworzy bazę + migracje o ile takie coś macie zdefiniowane
+    db.Database.EnsureCreated();
+    if (!db.Kategorie.Any())
+    {
+        db.Kategorie.AddRange(
+            new Kategoria { Nazwa = "IT" },
+            new Kategoria { Nazwa = "Rolnictwio" },
+            new Kategoria { Nazwa = "Rybołóstwo" }
+        );
+
+        db.SaveChanges();
+    }
+
+    if (!db.Produkty.Any())
+    {
+        db.Produkty.AddRange(
+            new Produkt { Nazwa = "Komputer", Cena = 1499.00, KategoriaId = 1 },
+            new Produkt { Nazwa = "Monitor", Cena = 515.23, KategoriaId = 1 },
+            new Produkt { Nazwa = "Klawiatura", Cena = 59.99, KategoriaId = 1 },
+            new Produkt { Nazwa = "Taktor", Cena = 100000.00, KategoriaId = 2 },
+            new Produkt { Nazwa = "Przyczepa", Cena = 12600.00, KategoriaId = 2 },
+            new Produkt { Nazwa = "Wory", Cena = 50.00, KategoriaId = 2 },
+            new Produkt { Nazwa = "Wędka", Cena = 300.10, KategoriaId = 3 },
+            new Produkt { Nazwa = "Licencja z łodzi", Cena = 350.00, KategoriaId = 3 }
+        );
+
+        db.SaveChanges();
+    }
+}
+
+5. Design
+To już w miarę potrzeb. Np.:
+<ComboBox Name="combobox_kategoria" Grid.Row="0" Height="20" Width="300" SelectionChanged="combobox_kategoria_SelectionChanged">
+
+</ComboBox>
+<ListBox Name="listbox_tresc" Grid.Row="1" Height="150" Width="300">
+
+</ListBox>

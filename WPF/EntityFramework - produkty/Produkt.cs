@@ -9,9 +9,15 @@ namespace EntityFramework___produkty
     internal class Produkt
     {
         public int Id { get; set; }
-        public int IdKategoria { get; set; }
-        public virtual Kategoria Kategoria { get; set; }
+        public int KategoriaId { get; set; }
+        public Kategoria Kategoria { get; set; }
         public string Nazwa { get; set; }
         public double Cena { get; set; }
+
+        public override String ToString()
+        {
+            return Nazwa;
+        }
     }
+
 }

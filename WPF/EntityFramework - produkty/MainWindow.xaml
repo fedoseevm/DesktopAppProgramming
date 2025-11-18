@@ -6,7 +6,13 @@
         xmlns:local="clr-namespace:EntityFramework___produkty"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <StackPanel Orientation="Vertical">
+        <ComboBox Name="combobox_kategoria" Grid.Row="0" Height="20" Width="300" SelectionChanged="combobox_kategoria_SelectionChanged">
 
-    </Grid>
+        </ComboBox>
+        <ListBox Name="listbox_tresc" Grid.Row="1" Height="150" Width="300">
+
+        </ListBox>
+
+    </StackPanel>
 </Window>

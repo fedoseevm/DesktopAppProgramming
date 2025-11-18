@@ -11,5 +11,10 @@ namespace EntityFramework___produkty
         public int Id { get; set; }
         public string Nazwa { get; set; }
         //ICollection<Produkt> Produkty { get; set; }
+
+        public override String ToString()
+        {
+            return Nazwa;
+        }
     }
 }

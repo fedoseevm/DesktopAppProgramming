@@ -16,12 +16,36 @@ namespace EntityFramework___produkty
     /// </summary>
     public partial class MainWindow : Window
     {
+        KoszykContext db;
         public MainWindow()
         {
+            db = new KoszykContext();
             InitializeComponent();
-            KoszykBiznes koszykBiznes = new KoszykBiznes();
-            koszykBiznes.KoszykContext.Database.EnsureCreated();
-            koszykBiznes.KoszykContext.MySeed();
+            //KoszykBiznes koszykBiznes = new KoszykBiznes();
+            //koszykBiznes.KoszykContext.Database.EnsureCreated();
+            WypelnijCombo();
+        }
+
+        private void WypelnijCombo()
+        {
+            List<Kategoria> kategorie = db.Kategorie.ToList();
+            foreach (var item in kategorie)
+            {
+                combobox_kategoria.Items.Add(item);
+            }
+        }
+
+        private void combobox_kategoria_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            Kategoria katSelected = (Kategoria)combobox_kategoria.SelectedItem;
+
+            foreach (var produkt in db.Produkty)
+            {
+                if (produkt.Kategoria == katSelected)
+                {
+                    listbox_tresc.Items.Add(produkt);
+                }
+            }
         }
     }
 }
