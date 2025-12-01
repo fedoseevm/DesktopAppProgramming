@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YLkdCIHKohk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\4Egr1\\source\\repos\\ViewModel1\\ViewModel1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\4Egr1\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

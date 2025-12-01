@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4Egr1\\source\\repos\\ViewModel1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{029B3AE1-982F-4DED-9EDF-A5884B3B13DB}|ViewModel1.csproj|c:\\users\\4egr1\\source\\repos\\viewmodel1\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029B3AE1-982F-4DED-9EDF-A5884B3B13DB}|ViewModel1.csproj|solutionrelative:todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029B3AE1-982F-4DED-9EDF-A5884B3B13DB}|ViewModel1.csproj|c:\\users\\4egr1\\source\\repos\\viewmodel1\\todoitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029B3AE1-982F-4DED-9EDF-A5884B3B13DB}|ViewModel1.csproj|solutionrelative:todoitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029B3AE1-982F-4DED-9EDF-A5884B3B13DB}|ViewModel1.csproj|c:\\users\\4egr1\\source\\repos\\viewmodel1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{029B3AE1-982F-4DED-9EDF-A5884B3B13DB}|ViewModel1.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029B3AE1-982F-4DED-9EDF-A5884B3B13DB}|ViewModel1.csproj|c:\\users\\4egr1\\source\\repos\\viewmodel1\\myviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029B3AE1-982F-4DED-9EDF-A5884B3B13DB}|ViewModel1.csproj|solutionrelative:myviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029B3AE1-982F-4DED-9EDF-A5884B3B13DB}|ViewModel1.csproj|c:\\users\\4egr1\\source\\repos\\viewmodel1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029B3AE1-982F-4DED-9EDF-A5884B3B13DB}|ViewModel1.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\ViewModel1\\TodoListViewModel.cs",
+              "RelativeDocumentMoniker": "TodoListViewModel.cs",
+              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\ViewModel1\\TodoListViewModel.cs",
+              "RelativeToolTip": "TodoListViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T07:38:26.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\ViewModel1\\TodoItemViewModel.cs",
+              "RelativeDocumentMoniker": "TodoItemViewModel.cs",
+              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\ViewModel1\\TodoItemViewModel.cs",
+              "RelativeToolTip": "TodoItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T07:34:33.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\ViewModel1\\MyViewModel.cs",
+              "RelativeDocumentMoniker": "MyViewModel.cs",
+              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\ViewModel1\\MyViewModel.cs",
+              "RelativeToolTip": "MyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T06:53:38.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\ViewModel1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\ViewModel1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-01T06:47:13.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\ViewModel1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\ViewModel1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T06:47:11.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
