@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egzamin\\source\\repos\\ModelViewListItem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1909773-36C3-4F0C-BE99-CC39BA550D63}|ModelViewListItem.csproj|c:\\users\\egzamin\\source\\repos\\modelviewlistitem\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1909773-36C3-4F0C-BE99-CC39BA550D63}|ModelViewListItem.csproj|solutionrelative:todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1909773-36C3-4F0C-BE99-CC39BA550D63}|ModelViewListItem.csproj|c:\\users\\egzamin\\source\\repos\\modelviewlistitem\\todoitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1909773-36C3-4F0C-BE99-CC39BA550D63}|ModelViewListItem.csproj|solutionrelative:todoitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1909773-36C3-4F0C-BE99-CC39BA550D63}|ModelViewListItem.csproj|c:\\users\\egzamin\\source\\repos\\modelviewlistitem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1909773-36C3-4F0C-BE99-CC39BA550D63}|ModelViewListItem.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1909773-36C3-4F0C-BE99-CC39BA550D63}|ModelViewListItem.csproj|c:\\users\\egzamin\\source\\repos\\modelviewlistitem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1909773-36C3-4F0C-BE99-CC39BA550D63}|ModelViewListItem.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\egzamin\\source\\repos\\ModelViewListItem\\TodoListViewModel.cs",
+              "RelativeDocumentMoniker": "TodoListViewModel.cs",
+              "ToolTip": "C:\\Users\\egzamin\\source\\repos\\ModelViewListItem\\TodoListViewModel.cs",
+              "RelativeToolTip": "TodoListViewModel.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T12:47:06.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\egzamin\\source\\repos\\ModelViewListItem\\TodoItemViewModel.cs",
+              "RelativeDocumentMoniker": "TodoItemViewModel.cs",
+              "ToolTip": "C:\\Users\\egzamin\\source\\repos\\ModelViewListItem\\TodoItemViewModel.cs",
+              "RelativeToolTip": "TodoItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T12:43:49.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\egzamin\\source\\repos\\ModelViewListItem\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\egzamin\\source\\repos\\ModelViewListItem\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-03T12:40:40.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\egzamin\\source\\repos\\ModelViewListItem\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\egzamin\\source\\repos\\ModelViewListItem\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T12:40:36.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
