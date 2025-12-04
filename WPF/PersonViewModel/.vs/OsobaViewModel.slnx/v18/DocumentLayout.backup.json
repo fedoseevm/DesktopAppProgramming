@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4Egr1\\source\\repos\\OsobaViewModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E21EDDB-33D1-47E5-9B0E-750447E3AB3D}|OsobaViewModel.csproj|c:\\users\\4egr1\\source\\repos\\osobaviewmodel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5E21EDDB-33D1-47E5-9B0E-750447E3AB3D}|OsobaViewModel.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E21EDDB-33D1-47E5-9B0E-750447E3AB3D}|OsobaViewModel.csproj|c:\\users\\4egr1\\source\\repos\\osobaviewmodel\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E21EDDB-33D1-47E5-9B0E-750447E3AB3D}|OsobaViewModel.csproj|solutionrelative:personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E21EDDB-33D1-47E5-9B0E-750447E3AB3D}|OsobaViewModel.csproj|c:\\users\\4egr1\\source\\repos\\osobaviewmodel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E21EDDB-33D1-47E5-9B0E-750447E3AB3D}|OsobaViewModel.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\OsobaViewModel\\PersonViewModel.cs",
+              "RelativeDocumentMoniker": "PersonViewModel.cs",
+              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\OsobaViewModel\\PersonViewModel.cs",
+              "RelativeToolTip": "PersonViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:08:45.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\OsobaViewModel\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\OsobaViewModel\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-04T12:01:23.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\OsobaViewModel\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\OsobaViewModel\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:01:21.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
