@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4Egr1\\source\\repos\\SprawdzianViewModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E23F67B8-FDD9-40E6-9F0E-887E2DC833DD}|SprawdzianViewModel.csproj|c:\\users\\4egr1\\source\\repos\\sprawdzianviewmodel\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E23F67B8-FDD9-40E6-9F0E-887E2DC833DD}|SprawdzianViewModel.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23F67B8-FDD9-40E6-9F0E-887E2DC833DD}|SprawdzianViewModel.csproj|c:\\users\\4egr1\\source\\repos\\sprawdzianviewmodel\\shopvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23F67B8-FDD9-40E6-9F0E-887E2DC833DD}|SprawdzianViewModel.csproj|solutionrelative:shopvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23F67B8-FDD9-40E6-9F0E-887E2DC833DD}|SprawdzianViewModel.csproj|c:\\users\\4egr1\\source\\repos\\sprawdzianviewmodel\\customervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23F67B8-FDD9-40E6-9F0E-887E2DC833DD}|SprawdzianViewModel.csproj|solutionrelative:customervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23F67B8-FDD9-40E6-9F0E-887E2DC833DD}|SprawdzianViewModel.csproj|c:\\users\\4egr1\\source\\repos\\sprawdzianviewmodel\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23F67B8-FDD9-40E6-9F0E-887E2DC833DD}|SprawdzianViewModel.csproj|solutionrelative:productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23F67B8-FDD9-40E6-9F0E-887E2DC833DD}|SprawdzianViewModel.csproj|c:\\users\\4egr1\\source\\repos\\sprawdzianviewmodel\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23F67B8-FDD9-40E6-9F0E-887E2DC833DD}|SprawdzianViewModel.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShopVM.cs",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\SprawdzianViewModel\\ShopVM.cs",
+              "RelativeDocumentMoniker": "ShopVM.cs",
+              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\SprawdzianViewModel\\ShopVM.cs",
+              "RelativeToolTip": "ShopVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T11:58:15.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerVM.cs",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\SprawdzianViewModel\\CustomerVM.cs",
+              "RelativeDocumentMoniker": "CustomerVM.cs",
+              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\SprawdzianViewModel\\CustomerVM.cs",
+              "RelativeToolTip": "CustomerVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T11:52:49.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\SprawdzianViewModel\\ProductVM.cs",
+              "RelativeDocumentMoniker": "ProductVM.cs",
+              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\SprawdzianViewModel\\ProductVM.cs",
+              "RelativeToolTip": "ProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T11:47:43.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\SprawdzianViewModel\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\SprawdzianViewModel\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-11T11:45:34.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\source\\repos\\SprawdzianViewModel\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\4Egr1\\source\\repos\\SprawdzianViewModel\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T11:45:33.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
