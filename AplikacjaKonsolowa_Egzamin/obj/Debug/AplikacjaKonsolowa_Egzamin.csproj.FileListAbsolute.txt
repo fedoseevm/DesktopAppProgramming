@@ -1,0 +1,8 @@
+C:\Users\FedoseevMaksim\source\repos\AplikacjaKonsolowa_Egzamin\bin\Debug\AplikacjaKonsolowa_Egzamin.exe.config
+C:\Users\FedoseevMaksim\source\repos\AplikacjaKonsolowa_Egzamin\bin\Debug\AplikacjaKonsolowa_Egzamin.exe
+C:\Users\FedoseevMaksim\source\repos\AplikacjaKonsolowa_Egzamin\bin\Debug\AplikacjaKonsolowa_Egzamin.pdb
+C:\Users\FedoseevMaksim\source\repos\AplikacjaKonsolowa_Egzamin\obj\Debug\AplikacjaKonsolowa_Egzamin.csproj.AssemblyReference.cache
+C:\Users\FedoseevMaksim\source\repos\AplikacjaKonsolowa_Egzamin\obj\Debug\AplikacjaKonsolowa_Egzamin.csproj.CoreCompileInputs.cache
+C:\Users\FedoseevMaksim\source\repos\AplikacjaKonsolowa_Egzamin\obj\Debug\AplikacjaKonsolowa_Egzamin.exe
+C:\Users\FedoseevMaksim\source\repos\AplikacjaKonsolowa_Egzamin\obj\Debug\AplikacjaKonsolowa_Egzamin.pdb
+C:\Users\FedoseevMaksim\source\repos\AplikacjaKonsolowa_Egzamin\obj\Debug\AplikacjaKonsolowa_Egzamin.exe.config
