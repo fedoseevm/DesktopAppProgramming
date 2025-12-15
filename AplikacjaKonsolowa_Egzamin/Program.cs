@@ -164,6 +164,13 @@ namespace AplikacjaKonsolowa_Egzamin
             Console.Clear();
         }
 
+        //***********************************
+        //nazwa funcji: AddStudent
+        //opis funkcji: Dodaje nowego studenta do listy studentów
+        //paramentry: lista studentów
+        //zwracany typ i opis: brak 
+        //autor: 04
+        //***********************************
         private static void AddStudent(List<Student> studenty)
         {
             Console.Write("Podaj ID (liczba naturalna): ");
@@ -232,6 +239,13 @@ namespace AplikacjaKonsolowa_Egzamin
             Console.Clear();
         }
 
+        //***********************************
+        //nazwa funcji: isValidText
+        //opis funkcji: Sprawdza, czy podany tekst jest niepusty i zaczyna się wielką literą, a następnie zawiera tylko małe litery.
+        //paramentry: tekst do sprawdzenia
+        //zwracany typ i opis: bool - true jeśli tekst jest poprawny, false w przeciwnym razie
+        //autor: 04
+        //***********************************
         private static bool isValidText(string text)
         {
             if (string.IsNullOrWhiteSpace(text)) return false;

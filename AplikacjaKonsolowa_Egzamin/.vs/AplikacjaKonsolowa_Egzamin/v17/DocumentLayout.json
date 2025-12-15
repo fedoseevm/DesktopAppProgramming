@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\FedoseevMaksim\\source\\repos\\AplikacjaKonsolowa_Egzamin\\",
+  "WorkspaceRootPath": "C:\\My Storage\\Github repos\\DesktopAppProgramming\\AplikacjaKonsolowa_Egzamin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D43BE03A-AD95-40E1-88CE-1D4789F46396}|AplikacjaKonsolowa_Egzamin.csproj|c:\\users\\fedoseevmaksim\\source\\repos\\aplikacjakonsolowa_egzamin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D43BE03A-AD95-40E1-88CE-1D4789F46396}|AplikacjaKonsolowa_Egzamin.csproj|c:\\my storage\\github repos\\desktopappprogramming\\aplikacjakonsolowa_egzamin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D43BE03A-AD95-40E1-88CE-1D4789F46396}|AplikacjaKonsolowa_Egzamin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D43BE03A-AD95-40E1-88CE-1D4789F46396}|AplikacjaKonsolowa_Egzamin.csproj|C:\\Users\\FedoseevMaksim\\source\\repos\\AplikacjaKonsolowa_Egzamin\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D43BE03A-AD95-40E1-88CE-1D4789F46396}|AplikacjaKonsolowa_Egzamin.csproj|C:\\My Storage\\Github repos\\DesktopAppProgramming\\AplikacjaKonsolowa_Egzamin\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D43BE03A-AD95-40E1-88CE-1D4789F46396}|AplikacjaKonsolowa_Egzamin.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,24 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\FedoseevMaksim\\source\\repos\\AplikacjaKonsolowa_Egzamin\\Student.cs",
+              "DocumentMoniker": "C:\\My Storage\\Github repos\\DesktopAppProgramming\\AplikacjaKonsolowa_Egzamin\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
-              "ToolTip": "C:\\Users\\FedoseevMaksim\\source\\repos\\AplikacjaKonsolowa_Egzamin\\Student.cs",
+              "ToolTip": "C:\\My Storage\\Github repos\\DesktopAppProgramming\\AplikacjaKonsolowa_Egzamin\\Student.cs",
               "RelativeToolTip": "Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T19:48:38.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T19:48:38.402Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FedoseevMaksim\\source\\repos\\AplikacjaKonsolowa_Egzamin\\Program.cs",
+              "DocumentMoniker": "C:\\My Storage\\Github repos\\DesktopAppProgramming\\AplikacjaKonsolowa_Egzamin\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\FedoseevMaksim\\source\\repos\\AplikacjaKonsolowa_Egzamin\\Program.cs",
+              "ToolTip": "C:\\My Storage\\Github repos\\DesktopAppProgramming\\AplikacjaKonsolowa_Egzamin\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAuwKoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T19:47:51.074Z",
               "EditorCaption": ""
