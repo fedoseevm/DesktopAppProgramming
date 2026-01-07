@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\KonwerterJednostek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F975A15-0177-4FD3-8FD7-BDD0705C4E55}|KonwerterJednostek.csproj|c:\\users\\4egr1\\4e mf\\desktopappprogramming\\konwerterjednostek\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F975A15-0177-4FD3-8FD7-BDD0705C4E55}|KonwerterJednostek.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F975A15-0177-4FD3-8FD7-BDD0705C4E55}|KonwerterJednostek.csproj|c:\\users\\4egr1\\4e mf\\desktopappprogramming\\konwerterjednostek\\konwerterjednostek.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0F975A15-0177-4FD3-8FD7-BDD0705C4E55}|KonwerterJednostek.csproj|solutionrelative:konwerterjednostek.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F975A15-0177-4FD3-8FD7-BDD0705C4E55}|KonwerterJednostek.csproj|c:\\users\\4egr1\\4e mf\\desktopappprogramming\\konwerterjednostek\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F975A15-0177-4FD3-8FD7-BDD0705C4E55}|KonwerterJednostek.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KonwerterJednostek",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\KonwerterJednostek\\KonwerterJednostek.csproj",
+              "RelativeDocumentMoniker": "KonwerterJednostek.csproj",
+              "ToolTip": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\KonwerterJednostek\\KonwerterJednostek.csproj",
+              "RelativeToolTip": "KonwerterJednostek.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-17T12:59:44.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\KonwerterJednostek\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\KonwerterJednostek\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-17T12:52:21.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\KonwerterJednostek\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\4Egr1\\4e mf\\DesktopAppProgramming\\KonwerterJednostek\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:52:21.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
