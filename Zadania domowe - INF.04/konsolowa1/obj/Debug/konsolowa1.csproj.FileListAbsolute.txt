@@ -1,0 +1,7 @@
+C:\Users\4Egr1\4e mf\DesktopAppProgramming\Zadania domowe - INF.04\konsolowa1\bin\Debug\konsolowa1.exe.config
+C:\Users\4Egr1\4e mf\DesktopAppProgramming\Zadania domowe - INF.04\konsolowa1\bin\Debug\konsolowa1.exe
+C:\Users\4Egr1\4e mf\DesktopAppProgramming\Zadania domowe - INF.04\konsolowa1\bin\Debug\konsolowa1.pdb
+C:\Users\4Egr1\4e mf\DesktopAppProgramming\Zadania domowe - INF.04\konsolowa1\obj\Debug\konsolowa1.csproj.AssemblyReference.cache
+C:\Users\4Egr1\4e mf\DesktopAppProgramming\Zadania domowe - INF.04\konsolowa1\obj\Debug\konsolowa1.csproj.CoreCompileInputs.cache
+C:\Users\4Egr1\4e mf\DesktopAppProgramming\Zadania domowe - INF.04\konsolowa1\obj\Debug\konsolowa1.exe
+C:\Users\4Egr1\4e mf\DesktopAppProgramming\Zadania domowe - INF.04\konsolowa1\obj\Debug\konsolowa1.pdb
