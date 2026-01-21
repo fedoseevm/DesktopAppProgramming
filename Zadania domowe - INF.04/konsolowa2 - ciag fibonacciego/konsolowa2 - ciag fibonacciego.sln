@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "konsolowa2 - ciag fibonacciego", "konsolowa2 - ciag fibonacciego.csproj", "{BDBB86DE-BD27-4364-B532-A8202AAA99F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDBB86DE-BD27-4364-B532-A8202AAA99F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBB86DE-BD27-4364-B532-A8202AAA99F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBB86DE-BD27-4364-B532-A8202AAA99F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBB86DE-BD27-4364-B532-A8202AAA99F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2A18486-EE49-4D0F-A031-F714DD015B93}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\My Storage\Github repos\DesktopAppProgramming\Zadania domowe - INF.04\konsolowa2 - ciag fibonacciego\bin\Debug\konsolowa2 - ciag fibonacciego.exe.config
+C:\My Storage\Github repos\DesktopAppProgramming\Zadania domowe - INF.04\konsolowa2 - ciag fibonacciego\bin\Debug\konsolowa2 - ciag fibonacciego.exe
+C:\My Storage\Github repos\DesktopAppProgramming\Zadania domowe - INF.04\konsolowa2 - ciag fibonacciego\bin\Debug\konsolowa2 - ciag fibonacciego.pdb
+C:\My Storage\Github repos\DesktopAppProgramming\Zadania domowe - INF.04\konsolowa2 - ciag fibonacciego\obj\Debug\konsolowa2 - ciag fibonacciego.csproj.AssemblyReference.cache
+C:\My Storage\Github repos\DesktopAppProgramming\Zadania domowe - INF.04\konsolowa2 - ciag fibonacciego\obj\Debug\konsolowa2 - ciag fibonacciego.csproj.CoreCompileInputs.cache
+C:\My Storage\Github repos\DesktopAppProgramming\Zadania domowe - INF.04\konsolowa2 - ciag fibonacciego\obj\Debug\konsolowa2 - ciag fibonacciego.exe
+C:\My Storage\Github repos\DesktopAppProgramming\Zadania domowe - INF.04\konsolowa2 - ciag fibonacciego\obj\Debug\konsolowa2 - ciag fibonacciego.pdb
+C:\My Storage\Github repos\DesktopAppProgramming\Zadania domowe - INF.04\konsolowa2 - ciag fibonacciego\obj\Debug\konsolowa2 - ciag fibonacciego.exe.config
