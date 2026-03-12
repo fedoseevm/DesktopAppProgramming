@@ -1,0 +1,7 @@
+C:\Users\4Egr1\source\repos\Wiadomosci_IoD\bin\Debug\Wiadomosci_IoD.exe.config
+C:\Users\4Egr1\source\repos\Wiadomosci_IoD\bin\Debug\Wiadomosci_IoD.exe
+C:\Users\4Egr1\source\repos\Wiadomosci_IoD\bin\Debug\Wiadomosci_IoD.pdb
+C:\Users\4Egr1\source\repos\Wiadomosci_IoD\obj\Debug\Wiadomosci_IoD.csproj.AssemblyReference.cache
+C:\Users\4Egr1\source\repos\Wiadomosci_IoD\obj\Debug\Wiadomosci_IoD.csproj.CoreCompileInputs.cache
+C:\Users\4Egr1\source\repos\Wiadomosci_IoD\obj\Debug\Wiadomosci_IoD.exe
+C:\Users\4Egr1\source\repos\Wiadomosci_IoD\obj\Debug\Wiadomosci_IoD.pdb
